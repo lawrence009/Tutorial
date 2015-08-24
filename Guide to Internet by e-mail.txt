@@ -1,0 +1,3166 @@
+
+
+
+
+
+
+                                            P*.COM
+
+                         A Guide to Accessing The Global Internet by E-mail
+
+                                       by Ned B. Johnson
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+While Prodigy is pleased to make this work available to PRODIGY
+members, the information presented here is the work of its
+author, Ned Johnson, and Prodigy can accept no responsibility
+for it.  Inquiries regarding ordering printed copies of this
+book should be sent to Ned Johnson at PRODIGY ID BVHK06C.
+Please see the end of the file for complete ordering
+information.
+
+
+
+
+(c) Copyright 1993 by Ned B. Johnson
+All Rights Reserved
+
+No portion of this book may be copied, duplicated, reproduced or
+transmitted by any means whatsoever without the expressed,
+written permission of the publisher.
+AUTHOR/PUBLISHER'S DISCLAIMER:
+
+Although every effort has been made to ensure that the
+information and commentaries presented in this book are true and
+accurate, the very nature of the subject matter makes it
+impossible to guarantee it's validity. The author and publisher
+make no representations as to the accuracy or validity of any
+information or accounts contained in this document. The reader
+is solely responsible for the consequences of any and all use of
+this information.
+
+
+
+PRODIGY is a service mark and trademark of the Prodigy Services 
+Company.  Windows is a trademark of Microsoft, Incorporated;
+Procomm is a trademark of Data Storm Technologies, 
+Incorporated; PKZIP is a trademark of PKWARE, Incorporated.  
+All other product names in this publication are trademarks or 
+registered trademarks of their respective owners.
+                                          Chapter 1
+
+                                     Welcome to Cyberspace
+
+
+
+                                     What is the Internet?
+
+
+What This Book Is About
+
+     In navigating the vast reaches of the Internet, any form of
+guidance is a blessing.  When trying to access the multitude of
+tools offer by the Internet using only e-mail, this is even more
+true.  It only becomes more critical when you have to pay even
+a small amount for that e-mail.  This book is written especially
+for those who are new to the Internet and to using e-mail to
+access it.  I have been a long time user of the Internet but
+have never had to do things by e-mail before.  It was quite an
+education for me doing the extensive research that has
+culminated in this book.  What follows is a concise description
+of the Internet, its capabilities and the specific techniques
+needed to access it from PRODIGY using nothing but electronic
+mail.  It is not complete.  It couldn't be for reasons you will
+soon appreciate.  It does, however, give you everything you need
+to get off to a good start and begin your own exploration of
+this exciting medium of human communication.  It is an adventure
+well worth the effort.  So dig in, do your homework and above
+all have fun!
+
+
+A Quick Definition of the Internet
+
+     In simplest terms, the Internet is very much what its name
+implies: an interaction or interconnection between computer
+networks.  A little insight reveals that this is the description
+of a process not a thing.  And that is what the Internet is: a
+process, an event, if you prefer.  Calling it an idea would not
+be totally inappropriate.
+
+     What makes it itself and nothing else is a set of
+agreements, called protocols, between the thousands of computer
+networks of which it is composed.   These agreements define how
+they will talk to each other and exchange information.  It is
+these protocols and the information conduit they provide that
+give the Internet its identity.
+
+     In her book The Aquarian Conspiracy Marilyn Ferguson
+foreshadowed the evolution of this type of phenomenon when she
+introduced the idea of a "leaderless revolution."  In point of
+fact, the Internet has no leader in the usual sense.  It is a
+voluntary association of computer networks which, by their very
+participation, are expressing a willingness to share knowledge,
+resources and ideas.
+
+     These characteristics make the Internet different from
+anything else on earth; past or present.  It is itself and
+nothing else.  In a very real sense it has taken on a life of
+its own in recent years.  It will be very difficult, if not
+impossible, to put this genie back in the bottle.  After all,
+"How ya gonna keep 'em down on the farm, after they've seen
+Pairee?"
+
+     What the Internet provides is a world-wide medium by which
+individuals are able to share everything from thoughts and
+feelings to art, knowledge and philosophy.  If it is our
+facility with rich communication that distinguishes human kind
+from all others on this planet, then the Internet is the next
+step in the logical evolution of that capacity.  We are, after
+all, nothing if not social creatures, and what could be more
+socially satisfying than having direct access to tens of
+millions of people across the face of this big, blue marble?
+
+     By virtue of your membership in PRODIGY, you are now a part
+of that evolution.  For whatever your reasons, you have stepped
+up to the trail head of this exploration.  I use that last word
+advisedly because there is another interesting question that
+arises with the Internet: now that we have this amazing tool,
+what do we do with it?
+
+     We are right back where we were in the mid-1970s when the
+microprocessor first appeared.  Most people's first exposure to
+it was in the form of the first computer game called Pong.
+Though an absurdly simple game by today's standards, it was
+apparently the best we could come up with on the spur of the
+moment.  If you look at where microcomputers have come in the
+last 2 decades and project that growth on the Internet, you will
+get some small idea of its potential.  Some believe that it is
+a more important development than the computer itself  (if
+that's even possible). In any event, we are all in on the ground
+floor of what surely promises to be a most amazing development.
+Where it will lead us remains uncertain.  I personally believe
+that anything that brings us closer together must be essentially
+beneficial.  Nothing in the history of the human race has held
+greater promise to bring us closer together than this
+technology.  It makes the printing press look like--well--a
+printing press.
+
+
+A Brief History Of The Internet
+
+     To better understand the Internet, a short history lesson
+is needed to set the stage. The roots of the Internet can be
+traced back to the early 1960s when the Pentagon realized that
+in the event of a nuclear holocaust, conventional communication
+would be essentially obliterated.  The question was how to
+establish a holocaust-proof command and control system.
+
+     The problem was dumped in the lap of the Rand Corporation's
+"think-tank" to contemplate and hopefully solve.  In 1964 the
+results of their research were made public. They proposed a new
+concept in system structure: the center-less network.  This
+network would be composed, not of a typical hierarchical pyramid
+of systems arranged in a pecking order, but an infinitely more
+flexible peer-to-peer interconnection in which no single system
+was in charge.  Each element in the network was autonomous and
+independent.
+
+     The key was in the way devised by which these systems were
+to pass information among themselves.  Information was assembled
+into packets (like bundling up Christmas gifts for all your
+relatives in Cleveland) and addressed to the intended recipient.
+The packet was then cast adrift on the network with its address
+attached.  It was up to the network to forward it in the general
+direction of its ultimate destination until it arrived.  Once
+delivered, the packet was disassembled, the original information
+restored and voila!  Communication.
+
+     There are several interesting and ironic facets to this
+arrangement, not the least of which is that, though it was
+sponsored by the military in anticipation of a nuclear
+catastrophe, it is essentially anarchistic by its very nature.
+The resulting network was call ARPANET after the Pentagon's
+Advanced Research Projects Agency who was its sponsor.
+
+     To accomplish this feat it was necessary to develop a set
+of rules, called protocols, which would be used by the systems
+of ARPANET to talk to each other and move information.  This
+protocol was called TCP/IP or Transmission Control
+Protocol/Internet Protocol.  TCP defines the way in which
+packets are to be handled and IP does the same for the
+addressing of those packets.  Both of these protocols are still
+fundamental to the identity of the Internet today.
+
+
+
+The Internet Today
+
+     In the intervening years, what began as ARPANET has grown
+geometrically from four interconnected networks to thousands.
+In 1989 the original ARPANET was decommissioned.  It had been so
+successful that its role in the Internet shriveled to the point
+where its demise went unnoticed by everyone except a handful of
+network administrators. In recent years the number of users on
+the Internet has been increasing by 20% per month!--faster than
+cellular phones and fax machines but largely unnoticed by the
+general public.
+
+     There are several noteworthy properties of the Internet.
+No one owns it.  There is no Internet Communications Co., Inc.
+The only thing that even gives it an identity of its very own is
+the protocols by which the business of communication is carried
+out.  Each network connected to the Internet is owned by
+someone, of course, but no one owns the Internet.  There are no
+charges on the Internet itself: no long-distance charges, no on-
+line charges and no dues.  You may have to pay someone to access
+the network through their computer but none of that money goes
+to the Internet because the Internet doesn't even have a bank
+account.
+
+     Recent estimates of the size of the Internet range from
+10,000,000 to 20,000,000 users worldwide.  The problem is that
+no one really knows exactly how large it is  and there isn't any
+practical way to find out.  What's worse, it changes in major
+ways, not just every day, but hour by minute by second.  For
+example, the day that PRODIGY opened their e-mail gateway, the
+Internet grew by 10-20% -- boom!
+
+
+
+The Internet Tomorrow
+
+     What happens next is really anyone's guess.  There are
+plans, of course, but the Internet has a history of responding
+to plans about as well as the weather does.  It is itself and no
+one tells it what to do.  So who is the Internet?  It's you and
+me and everyone else who already has, or later will, plug in.
+It is the human race responding to a primal need to reach out
+and touch someone.  It is the next step in the natural evolution
+of human communication. Note:  There are a great many Internet
+addresses and other information offered in this book.  I have
+tried every one except where otherwise noted.  However, the
+Internet, by its very nature, is nothing if not dynamic.  It
+changes each moment.  Things aren't always where you found them
+a few minutes ago.  Where there was more than one place to find
+something, I have tried to find the most stable and most current
+version but I can guarantee nothing.  Any of this information
+could have changed moments after the last time I accessed it.
+If you have trouble using any of these locations, I suggest that
+you consult Veronica or other resources to find another
+alternative.
+
+
+
+
+                                          Chapter 2
+
+                                What Can You Do On The Internet
+
+
+
+Telnet
+
+     One of the most powerful and intriguing capabilities of the
+Internet is called Telnet.  Using Telnet you can connect as a
+terminal to any system in the Internet -- theoretically.  In
+actual practice, however, many systems require you to log-on
+with a recognized ID and password.  If you don't have them,
+you're out of luck.  On the other hand, there are also thousands
+that will allow you at least limited access without a personal
+account.
+
+     These systems include libraries, universities, government
+agencies and private systems as well.  Once logged-on, you are
+free to peruse the system through whatever means are provided
+for you by the host computer.  In libraries you can schmooz the
+card files.  In universities you can look into campus
+directories, library files, access databases and see what's new
+on campus.  There are literally millions of things to explore.
+You can even use one host to sign-on to another system and
+another and another. Okay, here's the bad news: you can't do
+this through the e-mail link provided by PRODIGY at the present
+time.  You must have full Internet access to use Telnet.  The
+good news is that you can acquire much of the information
+available by Telnet using e-mail.  It's a little more involved
+and not quite as spontaneous, but it does work well for a great
+many purposes.
+
+
+
+FTP
+
+     Another powerful feature of the Internet is called FTP
+which stands for File Transfer Protocol.  FTP allows you to
+sign-on to a host strictly for the purpose of downloading and
+uploading files.  Even systems you cannot Telnet to may let you
+use FTP to capture information.
+
+     The trick of FTPing is that you have to know some very
+specific things before you can do it.  First, of course, you
+have to know the Internet address of the system you want to get
+into.  Once logged in, you need to know the exact directory or
+sub-directory in which the file you're interested in is stored.
+Oh yes, you can just poke around, but it's often very difficult
+to know what you're looking at when all you have is a DOS-like
+directory listing to work with.  Of course, there are ways to
+get around this difficulty.  Chief among these is a server
+program called Archie which searches thousands of FTP sites
+looking for the files you request.  More often than not, Archie
+will inform you that there are a variety of systems that have
+what you're looking for.  You need only choose which you want to
+use.
+
+     Know what you're looking for before you go exploring.  This
+can be done in a number of ways.  You can learn the exact
+location of a file from someone else, or you can find a list of
+files with their locations.  Most directories have an index file
+in them listing all the files in the directory (typically the
+index is called 00_index.txt).  Unfortunately, most of them are
+just a raw directory listing without any additional annotation
+which isn't much of an improvement.  Others publish nicely
+annotated listings which, once you have them, make grabbing
+files by FTP not much harder than using a phone book.
+
+     While you can't FTP from PRODIGY by going on-line in the
+usual fashion, you can use e-mail to do it for you.  It's not
+unlike writing a batch file for DOS.  You simply send a message
+to the computer who owns the information with a list of
+instructions (the same ones you would type in if you had logged-
+on by FTP) and it will execute them for you sending back the
+result by e-mail. The requested file shows up in your PRODIGY
+mailbox.  There's a little more to it than that but let's wait
+a while before getting into the bits and bytes.
+
+
+Listserv
+
+     If there's one thing the Internet has an oversupply of,
+it's lists.  There are thousands, if not millions, of lists
+containing all manner of information.  There are lists of
+people, programs, documents and books and nearly anything else
+you can imagine.  There are even lists of lists!  Again, you
+need to know at least something about what you're looking for
+but not with the precision  required by FTP.
+
+     When you find a list you want, you can send an e-mail
+message to a computer that will send the list to you.  Many
+lists are updated periodically.  If you want to be sure of
+always having the most current version of one of these lists,
+you can subscribe to it.  This puts you on a list of subscribers
+and thereafter, whenever that list is updated, a copy is sent to
+you automatically.  It simply shows up in your mailbox.
+
+     The only bad news here is that there are so many lists,
+it's hard to ferret out the few that might interest you.  Also,
+and this can be very important on PRODIGY, receiving Internet
+mail costs you money.  You may not know just exactly how big one
+of these lists is when you order it.  By the time you receive it
+and take a look, you've obligated yourself to pay for its
+delivery.  At around $17 per megabyte, it can get expensive if
+your tastes run toward long lists, especially if they are
+updated frequently.  We'll discuss Listserv in greater detail
+later.
+
+E-mail
+
+     E-mail is the only tool available to you in PRODIGY for
+accessing the Internet.  As we have already touched on, you can
+do much more than exchange messages with other users.  On the
+other hand, that may be all you're really interested in.
+Internet e-mail is a wonderful way to keep in touch with almost
+anyone almost anywhere.
+
+     Even better, it is also the only way to use the Internet
+from PRODIGY.  In fact, it is identical to using ordinary
+PRODIGY e-mail except that the addressing is a little different.
+Using PRODIGY's new Mail Manager makes the task of writing,
+reading and managing mail of all kinds easier than ever before.
+A more thorough discussion of the proper care and feeding of
+Mail Manager is included later.
+
+
+Gopher and Veronica
+
+     This is the feature of the Internet that I use most often.
+As the name implies, Gopher is in the business of going-for
+things you ask for.  Gopher has a "friend" named Veronica.
+Actually, they are special programs called servers that search
+the Internet looking for you.  Anything found is presented as a
+list or menu which you can then peruse.  If you find anything of
+interest, you can read it (if it's text), download it, or have
+it mailed to you.  This includes programs, pictures, sound and
+music files as well as documents, books, listings, directories
+and...well, you get the picture.  It is not unusual to submit a
+request and receive a list of hundreds or even thousands of
+hits.  When accessing Veronica by mail, it is a good idea to
+limit your searches by expressing relatively narrow criteria at
+first.  Otherwise, you will be receiving very large response
+files.  There are some ways to take the sting out of that which
+will be discussed in a later section (see pages  and  for more).
+
+
+Usenet Newsgroups
+
+     Another facet of the Internet that is popular is its
+equivalent of bulletin boards which are called newsgroups.
+These function very much like the BBs on PRODIGY except that
+there are literally thousands of them.  They are arranged in a
+hierarchy, like DOS directories, with sub-topics nested within
+major topics.  There are several major topic classifications
+among which are:
+
+comp    which are computer related topics
+misc    for odds and ends topics
+rec     for recreation related topics
+sci     science topics
+soc     discussions of social issues
+talk    unending debates on whatever
+news    what else, news
+alt     for alternate topics that don't fit in elsewhere
+
+     Each one of these major categories has numerous
+"compartments."  Here is a typical newsgroup name:
+rec.arts.comics.strips.  This one is in the general category of
+recreation,  within that a collection of groups on the arts,
+within that a specialty of comics and within that a focus on
+comic strips.  Most newsgroups are layered at least three deep
+if not more.  As you can see, there's sure to be something there
+for everyone.
+
+     Of course, new topics are being added even as you read
+this.  I recently saw an estimate that there are a million new
+messages a day added to the newsgroups collectively.
+Unfortunately, I have not yet found a practical way to access
+these by e-mail.
+
+                                          Chapter 3
+
+                                Internet Information Resources
+
+
+
+Files On-line
+
+     Many of the best books and other documents about the
+Internet are available on the network and you can have them e-
+mailed to you.  We'll get into the specifics of that later (see
+page  for details).  For now it is important only to know that
+the information you need is there and you can get at it once you
+know how. In addition to works on the Internet itself, there are
+literally millions of other files.  There are full-text copies
+of classical literature (e.g., Shakespeare; Tale of Two Cities);
+research papers on every imaginable subject; cookbooks;
+bartender's manuals; name it and it's probably there.
+
+     There are over 300 so called full-text projects going on in
+over 100 countries, each putting some form of writing into
+digital form and making it available through the Internet.  One
+of the most interesting and extensive of these is called Project
+Gutenberg.  Their aim is to have 10,000 titles on-line by the
+turn of the century.  To do this they must double their monthly
+production every year for the remainder of the century.  Last I
+heard, they were still on target.  Virtually all of their work
+is being done by volunteers who sit down and type an entire book
+into the computer.  If you offer to help, you can choose any
+book you like.  There's a wonderful story behind the project
+which is listed later . Books
+
+     There are a growing number of titles in bookstores about
+the Internet.  A listing of some of the more popular ones
+appears in Appendix B.
+
+
+People
+
+     When I first got involved with the Internet, I thought I'd
+found the hog-heaven of research.  Early on I was fortunate to
+talk to the administrator of a major system.  I expressed my
+enthusiasm about searching databases on-line.  He then gave me
+probably the best advice on the Internet I've ever had.  He said
+to forget the databases.  Information in them is already old.
+Somebody had to dig it out and write it down and get it on-line.
+The real power of the Internet is establishing a dialogue
+directly with the person who was the source of the data.  In
+other words, talk to the horse's mouth instead of the other end.
+
+     Intelligent, insightful use of e-mail will get you whatever
+you want and it will be better information than you could get
+any other way.  As an example, about a year ago I was
+considering writing an article on bioengineering.  One day I saw
+a television show that featured such a project going on at the
+University of Adelaide in Australian.   I wrote down the name of
+the man who headed up the project and the name of the school.
+Ten minutes after the show was over, I had Telnetted to the
+school's computer and was looking at the man's listing in the
+campus directory.  I had his full name, department, title, phone
+number, fax and Telex numbers, mailing address and e-mail
+address.  I later decided not to write the article right away,
+but when I do get around to it, I know exactly who to talk to
+and how to find him. Doing this from PRODIGY is slightly more
+involved but only because it would not be as convenient to find
+his e-mail address.  However, once you have the address, there
+is very little difference whether you're on PRODIGY or directly
+on the Internet.
+
+
+                                          Chapter 4
+
+                              What is PRODIGY's Internet gateway
+
+
+
+
+     PRODIGY has opened a gateway to the Internet and through
+the Internet to thousands of other computer networks and tens of
+millions of computers around the world.  What is a gateway?  It
+is a conduit between networks through which information from
+each can be moved to the other.  To do this they must speak the
+same language to some extent.  In the case of the Internet, that
+language is the TCP/IP protocol.  That is what PRODIGY did: they
+set up a system to translate their internal processing to that
+protocol and established a communications link to the Internet.
+This allows information to flow to and from the networks.
+
+     The fact that the two networks are now linked together is
+nothing new.  That kind of thing has been going on for decades.
+What is noteworthy, however, is that PRODIGY is the largest
+single commercial network with upwards of 2 million users and
+the Internet is the largest collection of interconnected
+computers of any kind in the history of the world.  The
+PRODIGY/Internet gateway joins these two Goliaths and represents
+a marriage of biblical proportions in the context of technology
+and interpersonal communications.
+
+It may be only e-mail, but....
+
+     It can be truthfully said that the connection between these
+two giants is "only e-mail."  The thing is that Internet e-mail
+is a lot more than writing a letter home.  It supports many
+exotic and powerful miracles of modern technology that have
+nothing to do with letters to Mom.
+
+     To take advantage of these powerful tools requires some
+understanding on your part.  That is what this book is for: to
+provide you with the basic information needed to start
+exercising your prerogatives on the Internet from the comfort of
+your old, familiar place in Cyberspace: PRODIGY.
+
+
+Your Connection To The World
+
+     The Internet spans this planet in a way that is difficult
+to grasp even for inveterate hackers, geographers and globe
+trotters.  What's more, it virtually defies space and pays very
+little attention to time more often than not.
+
+     In the same way that each byte of your computer's memory
+takes the same amount of time to access (the physical location
+of the memory chips is irrelevant), any location in the world
+can be accessed in about the same time and with the same ease as
+any other.  In other words, if you live across the street from
+Stanford University, you can access the library computer at the
+University of Helsinki just as quickly and with no more expense
+or difficulty.  As far as the Internet is concerned, they're
+both just places, each coequal to the other.  As comedian Yakof
+Smirnoff would say, "What a concept!"
+
+     With new connections being opened every day (PRODIGY being
+one of the most recent), the network continues to grow at a rate
+that is constantly accelerating.  At its present rate of
+development the Internet will be at a billion users by 1997.
+This assumes that the technology is going to be available to
+that many people (which it may not) but it also assumes that the
+rate of growth will remain unchanged (whereas it has been
+consistently accelerating for years).  Time will tell, but one
+thing seems clear: global communication is on the ascendancy and
+the Internet is leading the parade.
+
+
+                                          Chapter 5
+
+                                      Internet Addressing
+
+
+
+Basic Internet Addressing
+
+     Internet addressing is not as complex as it may at first
+appear to be.  Actually, it's not so different from ordinary
+postal addressing.  Consider the following postal address:
+
+John Doe
+1234 Main Street
+Anywhere, AW 99999
+
+     There are 5 parts to this address: name, address, city,
+state and zip code.  These can be seen as answers to two basic
+questions needed to properly deliver a letter: who does it go to
+and where are they?  Electronic mail needs answers to the same
+two questions in order to deliver your message, file or what
+have you. When you send a note through PRODIGY to another user,
+there is no need to say where they are; they're on the PRODIGY
+system.  All you need to specify is who the recipient is.  Once
+you leave the PRODIGY service, however, the "where" becomes very
+important.  There are thousands of computer networks each of
+which are potential destinations and many of which have
+subsystems within them where users' mailboxes can be located.
+The mail delivery system must have all the information needed to
+navigate through this maze of networks to the precise mailbox
+you intend.
+
+     Realizing this makes it clear why addressing is so
+important.  What's more, in the Internet you don't have a
+friendly postal delivery person who can resolve ambiguities or
+errors in addressing after the letter is mailed.  What you have
+instead is a rather stupid computer which has been told how to
+use a very precise and specific form of addressing and knows
+nothing about ambiguity. Put yourself in the position of this
+mail handling computer program.  What's the first thing you need
+to know?  What is the name of the network on which the user's
+mailbox resides?  Then you would need to know the name of the
+subsystem within that network, if there is one.  Is there
+another sub-sub-system and if so what is its name?  Finally, who
+is the person who is to actually receive this message?
+
+     In the postal addressing scheme, the "who" question is
+answered first, then the "where" question.  That is also true of
+Internet addressing.  Let's consider my Internet address on
+PRODIGY. BVHK06A@prodigy.com
+
+     Who am I?  I am BHVK06A.  The rest of my address tells
+where I am on the Internet.   Again we are moving from the
+specific to the general.  Since PRODIGY has no subsystems, it is
+sufficient to say that I am "at" (or just @ for short) prodigy.
+So what is the "com" for?
+
+     In the United States there are several categories of
+systems connected to the Internet.  Each of these have been
+given a three letter abbreviation.  They are:
+
+com     for commercial systems
+edu     for educational institutions
+mil     for military installations
+org     for organizations (usually nonprofit)
+net     for network organizations
+gov     are for government systems
+
+     Outside the US these three letter designations are
+generally replaced by a two letter country code.  For example:
+ca for Canada, uk for United Kingdom, fi for Finland.  There is
+an obvious logic to the selection of these country codes but
+don't always take them at face value.  For example, what country
+would you expect de to indicate?  If you guessed Denmark, you're
+wrong.  It is Germany (Deutschland).  By the same token the code
+au stands for Australia, not Austria (which is at).
+Incidentally, when someone sends you e-mail from another
+country, they must tack  .us on the end of your address to
+indicate that you are in the United States.  If these
+abbreviations seem familiar it is because our postal
+abbreviations for the state of the US suffer from the same
+problems.  Alaska, Alabama, Arkansas and Arizona can't all use
+the first two letters of their names as their abbreviations.
+The best course is to be sure before assuming.
+
+     In any event, these two and three letter codes for systems
+are called domains.  Why?  It is a term borrowed from
+mathematics and you needn't be concerned about it.  So, putting
+it all together, we have a model that looks like this:
+someone@somewhere.domain
+
+     When it comes to the "somewhere" part, you may have a name
+that is plain English (like prodigy) or you may have some
+hieroglyphic like "decxms" which defies intuitive grasp.  Again,
+the only thing that matters is that you get it right.  Verbatim.
+
+     The entire address following the @ symbol is technically
+called a Fully Qualified Domain Name, or FQDN.  All this means
+is that it represents an unambiguous name of a specific system.
+In the interest of full disclosure, I should point out that
+technically these are not actual Internet addresses.  Internet
+addresses are composed of what are called "dotted quads" which
+look like this: 999.999.999.999, where the 9s can be any digit.
+Actually they are a 32-bit number that represents a specific
+system.  What we have been discussing are actually aliases for
+those complicated numbers.  The mailing protocols on the
+Internet usually do all the necessary translation for you
+invisibly and automatically.  Seldom, if ever, will you have any
+need to deal with the dotted quad notation.  I just wanted you
+to know that this is going on behind the scenes and that every
+FQDN has a dotted quad equivalent.
+
+
+
+Other Networks
+
+     Other networks which are connected to the Internet have
+their own forms of addressing.  Usually there is an alias
+translation so that you don't have to deal with them directly.
+We won't be going into that here but later I will point you to
+documents  that can give you more information than you want on
+the nuts and bolts of this type of techno-trivia.  Occasionally
+it may become critical to your purposes.
+
+
+Finding Internet Addresses
+
+     Before you can send mail to someone, whether by postal mail
+or e-mail, you  must have their address.  If you need to find a
+street address for someone, you can often just look in the phone
+book for it.  It gets a little harder if they live in another
+city, but there's always directory assistance.  In PRODIGY, you
+have the Member List which, though it doesn't contain listings
+for every member due to the fact that they must register to be
+included, at least it gives you somewhere to look.
+
+     The Internet, however, is quite different.  There are
+problems of several kinds that make it far more difficult to
+find addresses starting from scratch.  First and foremost is its
+utter magnitude.  It could be said that the Internet is the
+largest "city" on earth.  With upwards of 20 million
+"inhabitants", it would be a practical impossibility to compile
+a phone book for it.  Such a book would be on the order of 10
+feet thick, just for openers!  To make matters worse, by the
+time you got your Internet phone book in print, it would be
+hopelessly out of date because there are over 30,000 new
+citizens coming on-line every day.  What really makes it
+impossible, though, is that nowhere does there exist a master
+list of users.  This is due to its essentially decentralized
+nature as discussed earlier.  There is no headquarters, no
+command central, no home office.
+
+     The only thing you, as an address searcher, have going for
+you is that you are dealing with an electronic system.  This
+means that it is fast, can manage huge amounts of data and can
+be kept up-to-date with a realistic amount of effort.  It also
+has a modicum of intelligence here and there.  This gives you
+some advantages in locating the needle in a haystack that an e-
+mail address represents.  Even so, unfortunately, you are not
+always able to find what you're looking for on-line.
+
+     Much has been written on the subject of finding addresses
+on the Internet and there's no point in my reinventing the wheel
+here.  What I will try to do is to give you some methods that
+offer you at least a fighting chance of success and point you to
+more comprehensive sources for other strategies.
+
+     The best advice--which is usually the first suggestion
+offered by the "experts"--is to try to find the address you seek
+directly: ask the person you are trying to reach.  Call them on
+the phone or write them by postal mail (which on the net is call
+not-so-affectionately, "snailmail").  This is, when possible,
+always the best and most reliable way. Even if you are able to
+locate an address for someone by electronic means, there's no
+guarantee that it is current.  Some people have several
+addresses but use one of them to the relative exclusion of the
+others.  If you find one of the "orphans" that suffers from
+disuse, the message you send may never even get read.
+
+     If you have no practical means of contacting the person you
+want to find directly, or if you are just too lazy or
+adventurous to try, here are some ways to find them by e-mail.
+
+     Note:  Hereafter I will be referring to various address,
+system names and programs in the text.  Most, if not all, of
+these will be indicated in italics like this so you will know
+that they are "loaded" words and not just part of the text.
+Also, words that are in bold like TO: are labels provided by
+PRODIGY or whomever and are not to be typed by you. They are
+there strictly for your information or to identify the name of
+the field or item associated with them.  Most of this will be
+obvious but I thought I'd alert you in advance.
+
+     Your first step is to find the address for the system on
+which the person you're looking for has their account.  If you
+have the system's address (domain) you're chances of finding an
+individual on that system are greatly improved.  Once you've
+found the host domain, you have a couple of options.  First, you
+can hope they have a facility called "whois."  This is a program
+that allows you to ask for a person by name.  If they have an
+account on that host, you will be able to find out their address
+by asking whois.  Failing that, you can write to someone else at
+the host system and ask them for help in locating the address
+you seek. You can access whois using e-mail by sending a message
+to mailserv@internic.net with the subject: field containing the
+commands you want whois to perform.  What  are the commands
+available and how do you use them?  That is a document by itself
+and will not be repeated here.  You can, however, get your own
+copy of that document for a cost of about 30 cents by sending a
+message to the above address with a  subject of the word help.
+The whois server will mail you back instructions on the proper
+use of whois.  These instructions assume that you will be
+accessing whois in the normal fashion on-line.  All you have to
+know is that when it talks about  typing commands preceded by
+whois, that is the text you should include in your subject line.
+For example, a message asking for help would look like this:
+
+TO:  mailserv@internic.net
+SUBJECT: help
+
+     This server ignores the body of the message unless the
+subject field is empty.  With PRODIGY you have the possibility
+that a long command line would not fit into the subject field.
+If that happens, no problem.  Just leave the subject blank and
+put the command in the message itself.
+
+     To look for my address, you would send this message:
+
+TO: mailserv@internic.net
+SUBJECT: NAme johnson, ned
+
+     Telling it that you're asking for a name by starting your
+command with NAme will speed things up because it won't have to
+look at other information contained in the record.  Actually,
+NAme can be shortened  to just NA since it only looks at the
+first two characters anyway.  You can also simply put a period
+at the beginning of the name (.johnson, ned) to accomplish the
+same thing.  All this is covered in great detail in the help
+file when you get it.
+
+     Warning!  You have no control over the size of the list of
+names and addresses you get back.  If the name is a common one,
+you may receive a very long file which you will have to pay for.
+You can also specify the type of institution to which you want
+the search limited and other qualifiers.  I would suggest
+starting out being as specific as possible and if you don't get
+a result, then strip away the qualifiers until there's nothing
+left but the name.
+
+     You can also use whois to find the name of a system.  For
+example, this message would return the record for a fictitious
+host system called myhost.
+
+TO: mailserv@internic.net
+SUBJECT: HOst myhost
+
+     If you intend to use whois, your first action should be to
+get the help file mailed to you.  This will verify that you're
+doing the mailing and addressing correctly because if you're
+not, you won't get the help file.
+
+     Another means available for address searching is called the
+Knowbot Information Service (or just KIS).  To get complete
+documentation on KIS send a message to
+netaddress@nri.reston.va.us with the single word man (short for
+manual) either as the subject or in the body of the message.
+
+     The KIS server will send you the manual for the system by
+return mail.  The file should be about 12k and will cost you 30
+cents (10 for the request and 20 for the reply).
+
+TIP:  Read this and all other documentation carefully before
+using it.  Then check to make sure you have followed it
+precisely.  In case you haven't already noticed, computers are
+very narrow minded about things like spelling and syntax.  If
+you do not send the server what it expects, it will just send
+back notification of failure, often without any explanation of
+what you did wrong.  Worse yet, it may look like it just
+couldn't find who you were looking for when in fact it could
+have if you'd only asked right.
+
+     Suppose you have a friend who is associated with Bryn Mawr
+College and you want to contact him through the campus'
+postmaster.   Here's what you would do:
+
+     Send the following e-mail to Gopher.
+
+TO:  gopher@calvin.edu
+SUBJECT:   bryn mawr
+MSG:
+Type=7
+Name=Query Whois server rs.internic.net
+Path=whois_root rs.internic.net
+Port=4324
+Host=gopher.uc.edu
+
+     You would get back a message that included, in part, the
+following which you would then send back in a second message.
+
+TO:gopher@calvin.edu
+SUBJECT: (none)
+MSG:
+Name=Raw search results
+Numb=1
+Type=0
+Port=43
+Path=bryn mawr
+Host=rs.internic.net
+
+     You would receive by return mail the following whois record
+for Byrn Mawr College:
+
+Bryn Mawr College (NET-BRYNMAWR)    BRYNMAWR    192.70.131.0
+Bryn Mawr College (NET-BRYNMAWR-B)  BRYNMAWR    165.106.0.0
+Bryn Mawr College (BRYNMAWR-DOM)    BRYNMAWR.EDU
+
+     You can forget about all but the item ending with
+"BRYNMAWR.EDU)  This is the one you want, not the dotted quads.
+Now that you have the domain of the campus computer systems, you
+can  send e-mail to their postmaster (postmaster@brynmawr.edu)
+to inquire about your friend.
+
+     In the general case, here is what your strategy should be
+for address acquisition.  Start at step 1 and if it fails, go on
+to the next, and the next, and so forth.
+
+1.  Try to contact the person directly by phone, mail or
+ whatever.
+
+2.  Send a message to whois giving all the information you have,
+    such as the domain of the person's host system, their name,
+    etc.
+
+3.  Keep removing qualifiers until there's nothing left but the
+    name.
+
+4.  Follow steps 2 and 3 with KIS.
+
+5.  If you have at least found out the address of the host
+    (host.domain), you can send a message to
+postmaster@host.domain and ask them for some help.  In this
+ case you will be talking to an actual human being rather
+ than a computer program.  This means you needn't be so
+formal.  It also means that you may not hear back right away
+  and that you're manners will count for a lot.  This is a
+  classic case of nice guys finishing first!
+
+
+                                          Chapter 6
+
+                                  Using FTP To Download Files
+
+
+
+     FTP stands for File Transfer Protocol.  This is just a
+fancy way of saying "a set of rules by which networks transfers
+files from one system to another."  All you need to know is how
+to use it. Ordinarily, FTP is used very much like Telnet.  The
+biggest difference is that when you log on a system with FTP,
+you use anonymous as your name and your e-mail address as the
+password.   For this reason it is often called anonymous FTP.
+
+     When you access FTP by e-mail, the log-in procedure is all
+taken care of for you automatically.  What you need to do is
+send mail to an FTP e-mail server and include in the body of the
+message a list of instructions it is to type for you when it
+logs-on the destination system.
+
+     You can get information on the full range of FTP commands
+by sending an e-mail message as follows:
+
+TO: ftpmail@decwrl.dec.com
+SUBJECT: FTP help
+MESSAGE: help
+
+     Note:  the subject field is not used by the server.  You
+are free to leave it blank or put a note to yourself there since
+the subject field of the reply will contain the same text.  It
+provides a way for you to look at the reply message and know
+what it is about. The FTP server will send a help file by return
+mail.  Here are brief descriptions of a few of the basic
+commands needed to download files.
+
+connect host.domain
+
+     The first piece of information you must provide to the FTP
+server is which host system you want it to connect with for you.
+This will look just like an e-mail address which is missing
+everything up to and including the @ symbol.  For example, if
+PRODIGY provided FTP access (which it doesn't at present) you
+would specify:
+
+connect prodigy.com
+
+     Ordinarily this will be the first line in the body of your
+message requesting a file.
+
+binary
+
+     You must include this command before you attempt to
+download any binary file (e.g., programs or other non-text
+files).  If you fail to do so, I guarantee the file you get will
+be unusable. chdir directory  This is a counterpart to the DOS
+cd command.  It changes to a different disk directory.  You must
+use this to navigate to the directory where the file you wish to
+download is located before you attempt to get  the file.
+Obviously, you must know which directory the file is in first.
+
+get filename
+
+     This command does just what it looks like: it gets the file
+whose name follows.
+
+chunksize size
+
+     Since PRODIGY e-mail (and most others) limits the size of
+a single message, larger files must be split into multiple
+segments which are then reassembled at the other end.  This
+command specifies the size of those modules.  Since the default
+is 64k and PRODIGY defaults to 60k, you should always include
+chunksize 59000 (or alternatively 59k) any time you are
+requesting a file that may be that large.  (See the section on
+uudecode for details on how to reassemble this split file).
+
+Warning:  If you specify a chunksize be extremely careful to say
+what you mean.  I recently did an FTP request in which I asked
+for a chunksize of 11 instead of 11k.  The result was that I
+received over 2,700 messages, each under 11 characters long!!
+Doing this on PRODIGY using Mail Manager on automatic it would
+cost a whopping $270!  It wasn't something complicated or
+exotic, just plain carelessness.  Fortunately, I was on a direct
+Internet gateway which doesn't charge me for mail so my only
+penalty was having to delete all those messages by hand.  I got
+off very light.  That one character (the letter k) was extremely
+important and this isn't the only example I could cite.  Before
+you send things out into Cyberspace be absolutely sure you're
+saying what you mean to say and that it is correct.
+
+uuencode
+
+     This command tells the FTP server how to encode the file.
+This is used with  binary files like programs as mention
+previously.   All binary files will be encoded automatically but
+they will use another coding system (called btoa) unless you
+include this command.  I recommend that, since you can use this
+decoding method with both FTP and  Gopher files, you stick to
+one method just to keep it simple.
+
+     There are more commands but these are the ones you will use
+most frequently from PRODIGY.  The rest are covered in the FTP
+help file when you send for it.
+
+Note:  When I mention the cost of various items here, it is
+based on PRODIGY's present pricing structure of 10 cents per 6k
+block of e-mail.  Depending on the plan you are using and your
+total e-mail usage for the current month, you may or may not
+have to pay anything.
+
+
+                                          Chapter 7
+
+                                 Using Archie To Locate Files
+
+
+
+     By now you're probably wondering how you're supposed to
+find all the information needed to send in an FTP request.
+There are several ways but the most direct is by using a program
+called Archie. Archie is a service that attempts to locate files
+that are available by anonymous FTP.
+
+     To receive help on using Archie by mail, send a message to
+archie@ans.net with no subject and the one word message help to
+receive a brief (4k) description or the message man to receive
+about 10 times that amount.    This will be interpreted by the
+server as a request for help which it will send by return mail.
+
+     The whole idea behind Archie is to find the exact location
+of a file which you can then download using FTP.  According to
+the documentation, they try to fill Archie mail requests within
+30 minutes but they freely admit that it may take until
+midnight.  In my experience, you'd better figure on the next
+day.  If you don't get an answer by the next day, try using the
+path command which explicitly designates your e-mail address.
+This can be helpful to the server in the event that the return
+address included with your request is interpreted inaccurately.
+
+     You will receive (usually within minutes) a confirmation
+that your request has been received and logged.  It doesn't tell
+you exactly when it will be filled but it  tells you  how many
+others are ahead of you in line.   This is typically in the
+range of 2,000-6,000 so you can see why it takes a while.  Also,
+this type of traffic is low on the priority scale of these
+systems which have a lot of serious work to do.  Don't forget,
+you're getting it for nothing.
+
+     Pay particular attention the find and whatis commands.
+These are especially  useful in locating anything and everything
+relating to a general subject.
+
+Warning!  Again, if your search criteria is too general, you may
+end up receiving a HUGE file which will cost you more than you
+bargained for.  Try to keep your searches as narrow as possible
+and broaden them only if they produce insufficient results.
+
+                                          Chapter 8
+
+                                      Gopher and Veronica
+
+
+
+Using Gopher by E-mail
+
+     As mentioned earlier, Gopher is a service whose job is to
+find things for you.  What kinds of things?  Almost anything
+that's on the Internet.  It finds programs, books, news
+articles, computer systems, networks, addresses (but not
+generally of people), lists, fact sheets, course and curricula
+descriptions and the list goes on.  I can't even imagine how
+many things are available using Gopher.
+
+     Veronica is probably the most powerful function within
+Gopher.  She (if I may personify a computer program) is amazing.
+You tell her what you're looking for and if it exists on the
+Internet, she'll find it for you.  She is also very smart.  You
+can give her quite complex targets and she will figure it all
+out. Veronica accepts what are called Boolean expressions.
+These are statements which may contain conditions as well as
+words to search for.  For example:
+
+red and green
+
+     All items which contain both the words red and green will
+show up on the "hit list."  But you can get much slicker than
+that.  How about this one.
+
+(red or green or blue) and (round or square)
+
+     In this case, everything that is round or square and either
+red, green or blue will be a hit.  Will a red triangle be a hit?
+Nope.  How about a black square?  No again.  As you can see, you
+can articulate very specific requests to shorten the list of
+hits you get back.  The logic is really very simple.  Everything
+in the parentheses is evaluated first.  In the last example,
+first it is determined if the item is red, green or blue.  If
+it's not, then the search fails right there.  If it is one of
+the right colors, then it checks to see if it is the right
+shape.  Then and only then will it appear on the final result.
+
+     Using Gopher and Veronica by e-mail is a bit more
+complicated than Archie at first, but once you get the hang of
+it, it becomes child's play.  The rewards make it well worth the
+effort required to learn.
+
+     First you should send for the gopher help file.  Send a
+message to gopher@calvin.edu with the subject help and
+any or no body.  This will be interpreted as a request for help.
+The file you get back is about 8K and will cost you 30 cents
+including the dime it cost to request it.
+
+     Gopher is presented as a series of menus from which you
+select what you want.  Of course you don't know what's on the
+next menu until you select it.  The process of accessing Gopher
+by mail involves sending for a menu; selecting an item from the
+menu and sending back a request for that item (which is usually
+another menu).  Repeat the process until you find a terminus,
+which is a file or destination rather than another menu.  This
+can require a lot of e-mail dialogue.
+
+     As you will read in the help file, there are several ways
+to use Gophermail.  The primary method results in some pretty
+long files just to go through the menu system.  Fortunately,
+there are some short cuts.  Here's how it works.
+
+     Each menu item has a set of specifications associated with
+it.  These define its location and the type of data it
+represents.  When you receive mail from Gopher, following the
+menu text is a list of the data for each item on that menu.
+Once you have this information about a particular menu or file,
+you can access it directly the next time without starting at the
+top level menu and working your way down the menu tree.  I'll
+give you some head-start information shortly.
+
+     I strongly advise you to go through the whole process the
+first time, so you'll know what it's about.  Besides, it will
+give you an idea what kinds of services are available.  Then if
+you want to "cut to the chase," fine.
+
+     Even though the responses from Gopher are very quick
+(seldom more than a couple of minutes) plan on making a project
+out of learning to use the service.  I've been at it a long time
+and even though I've had the advantage of using Gopher directly
+rather than by mail, I still don't have the foggiest idea what's
+really out there in Gopherspace as it's called.  It is
+unimaginably vast and changes virtually moment by moment.  I
+don't really believe anyone alive knows all that much about it.
+
+     To put it bluntly: PRODIGY has something on the order of 3
+million screens and the Internet (which is Gopher's home turf)
+makes it look like a piece of confetti torn of the corner of
+sky.  The difference between the two is probably at least 3
+orders of magnitude and could be more.
+
+
+The Nuts And Bolts Of Gopher
+
+     To uniquely identify a menu item or file, you need so send
+the following information to the server.
+
+Name:      is the name of the menu item or file and is optional,
+           although it does appear in the subject  field of your
+           response.
+
+Type:      refers to the type of item you are requesting (e.g.,
+           a menu, binary file, text file, etc.)
+
+Port:      is the port number on the host system.  Port 70 is
+           assumed and you need only specify another if it is
+           different.  I suggest you include this all the time
+           anyway.
+
+Path:      this is usually required.  It's best to assume  it's
+           needed.
+
+Host:      this is the (domain) name of the host computer which
+           holds the item.  It is a required field and must be
+           the last line! Here is an example of a fully formed
+           identifier:
+
+
+Type=0
+Name=800-TollFree BBS (Part 1)
+Path=D penninfo-srv.upenn.edu 9000 12031 African_Studies
+Port=71
+Host=noc.drexel.edu
+
+     This identifier would cause the file specified in name to
+be sent to you.  In this particular case a second request would
+be needed because the file comes in two parts.  The second file
+specification is identical to the first except that in the name
+field Part 1 becomes Part 2.
+
+     Note that Type, Name, etc. are capitalized. This is
+necessary. When I sent for this file I included both
+specification blocks together separated by a blank line and
+received the files in a minute or two by return mail.  Part 1
+was 23k and Part 2 was 14k.  The total cost, including the
+Gopher request, was 80 cents.  The result is that I now have a
+database of hundreds of 800 numbers for computers, government
+systems, product support lines, networks and BBS systems all
+over the country.  If I use it only once, it's got to be worth
+80 cents.  Even though the phone call is free, not all the
+systems listed are free to use, but some are.
+     This is just one example of how Gopher can serve you.
+Here's another.  I recently was introduced to a man who is
+involved with a business in which the design work is done in
+Hong Kong, the manufacturing in mainland China and the marketing
+in the states.  He is constantly out of touch with his
+counterparts and is very frustrated.  I suggested that the
+Internet might offer some relief.
+     That evening I consulted Veronica and asked for everything
+in the Internet relating to Hong Kong or the Peoples' Republic
+of China.  I used various search criteria like:
+
+hong kong and internet
+china and internet
+hong kong and china
+
+     You get the idea.  It took me a couple of hours to sift
+through the mass of information and download the pertinent
+files.  The next morning, less than 24 hours after our
+conversation, he had a fax waiting on his desk outlining my
+findings.  My total investment of time was about three hours.
+He was impressed to say the least.  We will be working out a
+communications system for him soon that will involve a hand-held
+computer with a cellular fax modem. In this example I consulted
+with Veronica to make my queries.  There are a number of
+Veronica servers on the Internet and they all function about the
+same.  You can send mail directly to one of them if you know the
+details of the specification.  Here are the specifications for
+several frequently used servers.
+
+Type=7
+Name=Search gopherspace at NYSERNet
+Path=
+Port=2347
+Host=empire.nysernet.org
+
+
+Type=7
+Name=Search gopherspace at University of Pisa
+Path=
+Port=2347
+Host=serra.unipi.it
+
+Type=7
+Name=Search gopherspace at University of Cologne
+Path=
+Port=2347
+Host=veronica.uni-koeln.de
+
+     To inquire of any of these, just send a message to
+gopher@calvin.edu with your search criteria as the
+subject and the host specification as the body of the message.
+You should have a list of hits back in a couple of minutes.
+
+Hint:  You can limit the number of hits it will return by adding
+-m# at the end of the subject line.  Here # is the maximum
+number of lines you want returned.  This way you know it won't
+overload your mailbox and wallet.  The default is about 200
+which could cost a dollar or so as PRODIGY COD.  You may want to
+actually increase that number but the choice is yours.
+
+     Here is what you send to get a document of Frequently Asked
+Questions about Veronica with their answers.  These FAQ
+documents, as they're called, are available for a great many
+things.  When you first get involved with something, it is a
+good idea to ask Veronica to find any FAQs on the subject and
+send them to you.  They are usually of a quite reasonable length
+and very helpful, especially to a beginner.  They're available
+so  use them.
+
+Type=0
+Name=FAQ:  Frequently-Asked Questions about veronica
+(1993/08/23) Path=0/veronica/veronica-faq
+Port=70
+Host=gopher.unr.edu
+
+
+     These are just a few examples of the power of the Internet,
+even by e-mail.
+
+Note:  I highly recommend getting this FAQ.  It will give you a
+real head start on using Veronica to maximum effectiveness right
+away.  Notice also the date.  This and most other FAQs are
+updated periodically.  You may want to leave the name off this
+request as it is optional anyway.  This should net you the most
+current version regardless of when you make your request.
+
+
+                                          Chapter 9
+
+                                Sending Mail to Other Networks
+
+
+
+     Many readers will no doubt be interested in exchanging e-
+mail with users of other networks.  Here I offer some start-up
+instructions for a few of the more popular networks and
+instructions on where to find more information for networks not
+covered.  When receiving mail from other systems, your address
+will usually be simply yourprodigyid@prodigy.com.
+
+
+Fidonet
+
+     The general form for addressing mail from Internet to
+Fidonet is: john.smith@p#.f#.n#.z#.fidonet.org, where the #s are
+various routing  instructions to the destination Fidonet BBS to
+which you want the mail delivered.  P=the point, F=Fidonode,
+N=Net and Z=Zone.  For a more complete dissertation, download
+the document listed in the Appendix.
+
+     One more word about Fidonet; it is a noncommercial network
+operated by private individuals, many of whom are hobbyists.
+They operate their BBSs on their own time and with their own
+money.  Fidonet uses something called "echomail" which works a
+little like the Pony Express.  All the boards on the network
+close down in the middle of the night and forward mail and other
+network traffic through predefined pathways.  This is how your
+mail will be delivered.  It may take overnight or it may take
+several days or it may not arrive at all.  On the other hand,
+you may have access to people and places that you can't get to
+otherwise.  There are thousands and thousands of Fido boards all
+over the world and they were usually there first.
+
+
+CompuServe
+
+     The general form is: #####.###@compuserve.com, where the #s
+are the CompuServe ID of the intended recipient.  This is very
+similar to your Internet address on PRODIGY.
+
+America On-line
+
+     This one's very similar to CompuServe and PRODIGY.  The
+general form is: userid@aol.com.  Not too complicated.
+
+Glasnet
+
+     The newly democratized Russia is now connected to the
+Internet through its own fledgling network called Glasnet.  If
+you know the state of their economy and telecommunications
+infrastructure, you can imagine how difficult and (in their
+terms) expensive it is to develop, maintain and operate such a
+system.  If you're interested in contacting anyone in Russia or
+if you'd like to offer to help them in their efforts to join the
+twentieth century before it becomes the twenty-first, there is
+an excellent document available on the Internet.  Believe me,
+they can use all the help they can get.  There are tremendous
+opportunities for mutual exploitation at every level already and
+it will get better long before it levels off.  One of the things
+they need are sponsors for local network gateways.  This can be
+done for what, to us, is a pitifully small amount of money.  As
+their telephone network begins to catch up to the rest of the
+world, there will be more and more areas open to practical
+networking.  Give it some thought.  We might as well use our
+bright, new toy to real human advantage.
+
+
+Other Networks
+
+     Rather than try to cover all the networks in the world
+here, I will refer you to The Internet Mailing Guide which gives
+instructions on how to address e-mail to and from the following
+networks:
+
+Alanet                     Connect                 Nasamail
+America Online             Easynet                 Omnet
+Applelink                  Econet                  Peacenet
+Attmail                    Envoy                   Signet
+Bitnet                     Fidonet                 Sinet
+Bix                        Geonet                  Span
+Bmug                       Gsfcmail                Sprintmail
+Cgnet                      MCImail                 Thenet
+CompuServe                 Nfenet                  Uninet
+                                         Chapter 10
+
+                                        PRODIGY's Mail Manager
+
+
+
+     To make your use of e-mail more convenient and practical,
+PRODIGY has provided you with a very useful tool: Mail Manager.
+It has several different functions but your use of it will
+depend on what you want to do.  Here, we will only touch briefly
+on the capabilities of Mail Manager which pertain to the
+Internet. If you want to get involved with the Internet through
+PRODIGY, you must have and use Mail Manager.  Not only is
+composition and management of e-mail more practical with Mail
+Manager, but you simply cannot read Internet mail with the on-
+line reader.  Nor can you send Internet mail on-line.  You must
+use Mail Manager for these purposes.  About all you can do with
+the Internet on-line is to receive mail and use the COPY TO DISK
+option in your mailbox to save the file to disk and read it
+later.
+
+An Overview of Mail Manager
+
+PRODIGY's  Mail Manager has six basic functions:
+
+1.  Compose, edit and store off-line e-mail messages (both
+    PRODIGY and Internet).
+
+2.  Read, store, manage and reply to incoming e-mail (both
+    PRODIGY and Internet).
+
+3.  Get and send e-mail using PRODIGY.  This can be done
+    manually, automatically or at scheduled  times.
+
+4.  Organize and store your e-mail, both incoming and outgoing,
+    into folders so that it is far easier to manage.
+
+5.  Download and upload file transfers and manage them for you
+    off-line. Send faxes and US postal mail (You cannot receive
+    either of these through PRODIGY.)
+
+6.  Mail Manager also includes a number of creature comforts
+    like a spelling checker, a character counter and a "postage
+    meter" which gives you a close approximation of what you
+    will pay for your outgoing traffic.
+
+Using Mail Manager with the Internet
+
+     In connection with the Internet you will probably be using
+Mail Manager for two basic purposes: writing and reading e-mail.
+Here I use the term "e-mail" to refer to both ordinary mail and
+files you have requested, both encoded binary files and straight
+text. Reading and writing e-mail is pretty straightforward and
+are covered quite adequately by the on-line help inside of Mail
+Manager so we will not  get into those matters here.  What we do
+need to discuss, however, is the question of how to deal with
+binary and split files received from sources on the Internet.
+
+     It really isn't very complicated but there are a few key
+concepts that you need to understand.  First, as mentioned
+earlier, binary files or files that are longer than the 60k
+limit of PRODIGY e-mail will be encoded using uuencode.   There
+are two ways you can process these files once they have arrived
+in your mailbox.
+
+     You can just use PRODIGY's COPY TO DISK function right in
+your mailbox.  This has one advantage over using Mail Manager.
+You are charged for incoming Internet CODs only after you have
+downloaded or read them.  When one comes into your mailbox, all
+you know is who or where it was sent from and the Subject line
+attached.  The one thing you do not know is the size which is
+what you're going to pay for.  If you select COPY TO DISK from
+the mailbox menu, you will be told how many bytes are in the
+message file.  In addition to telling you exactly how much it
+will cost to download it (message-size/6000 and rounded up), it
+may give you a clue as to what's in it if you don't already
+know.  You will get this information before you actually have to
+commit to the download.  If for any reason you don't want to pay
+for it, just abort the download and delete the message from your
+in-box.  You will not be charged.
+
+     If you want to download using Mail Manager, you can put a
+limit on the size of CODs you are willing to accept.  By setting
+this number low (which you can do in Mail Manager's setup menu)
+you can prevent inadvertently downloading expensive files
+because you're flying on autopilot.  This is a precaution well
+worth taking because PRODIGY offers no refunds on mail once
+you've accepted it.  Downloading to Mail Manager constitutes
+acceptance.  Besides, you can always up the limit on a case by
+case basis if you want to.
+
+     In any event,  it is probably easier to just copy the files
+to disk and eliminate the middleman.  It's also quicker usually.
+If you are dealing with a multipart file which has been encoded
+and split up by uuencode, you will want to be careful how you
+name the files.  The first file sent (usually the last one in
+your mail box) should always be given a name of the form:
+???????1.uue.  The second file received would be ???????2.uue
+and so forth.  This is necessary so that Extract or whatever
+program you're using to decode and reassemble the files will
+know how to identify them and how they fit together.
+
+     The Subject line of all these files (except the first one)
+will ordinarily end with Part # so there shouldn't be too much
+confusion as to the order in which they were sent.  The first
+file will not have a part number.  Don't ask me why.  I suppose
+that it doesn't know at the time it's mailed that it's going to
+be a split file and only discovers that when it runs out of
+space and has to start a new one.  It is also possible that
+files sent (a few seconds) later may arrive first.  In this case
+the part numbers will be out of sequence in your mailbox.  Don't
+worry.  Just name and number them according to the part number
+in the Subject line. Which brings up another point.  Whatever
+you put in the Subject line of your request will generally be
+sent back as part of the Subject line of the reply.  If you get
+wordy, by the time the Internet server adds their two-bits-worth
+to that subject, the part number may be shoved off the end of
+the Subject line and be useless.  Sometimes you can't avoid
+this.  For example, if you are making a request of Veronica you
+must use the Subject line for your search criteria.  It may be
+necessary to make that statement fairly long to narrow your
+search adequately.  If you get back a multipart file where the
+part numbers have been lost, you have little choice but to start
+with number one (which will be the one with no trace of a part
+number) and try different combinations of numbering the rest
+until you find the one that works.  One trick is that the last
+part is usually noticeably shorter than all the others.  At
+least that narrows the field and makes it child's play for files
+under about 180k (since there are only three files and you know
+what the first and last are).
+
+
+Downloading Files with Mail Manager
+
+     Your main use of Mail Manager will be in reading, writing
+and managing conventional text messages and smaller text files.
+If the occasion arises when you do download an encoded file,
+here's how you get it to the point where it can be decoded.
+
+1.  Download the file from PRODIGY using Mail Manager and leave
+    PRODIGY.
+
+2.  Highlight the file on the Mail Manager screen and press
+    ENTER to read it.
+
+3.  When the file is being displayed, hit Alt-F to bring up the
+    file menu and select E for Export.
+
+4.  Give it the name for that file and hit ENTER again.
+
+5.  Press ESC to return to the file listing and repeat the
+    process for each new file.
+
+     Once you have done this, you are essentially in the same
+position you would have been if you had used COPY TO DISK while
+you were on-line in your mailbox.  I told you it was easier to
+do it that way.
+
+Warning:  If you even half way expect to be receiving any
+Internet mail, especially something that is of unknown size, do
+not use Mail Manager to run PRODIGY and automatically download
+your incoming mail.  You could end up with one whale of a bill
+at the end of the month and have little of value to show for it.
+If you want to use the automatic mail download, fine.  Disable
+CODs using Mail Manager's Setup menu.  It also gives you a
+chance to do that again every time you use the Get/Send option
+on Mail Manager's main menu.  It's a little like "DEL *.*" in
+DOS: it's hard to do unintentionally, but far from impossible.
+
+     If you have other questions about Mail Manager, check the
+on-line help files (which, incidentally, can be printed out:
+just hit F1, P on the main menu.)
+
+                                         Chapter 11
+
+                                         Getting Help
+
+
+
+FAQs
+
+     Most people, when they first become involved in something,
+have questions about it.  Many of the questions are the same for
+nearly everyone.  Based on this assumption and because of the
+fundamental complexity and outright vastness of the Internet,
+someone had the bright idea of routinely creating and updating
+lists of Frequently Asked Questions, or just FAQs.  These are
+then made easily available in a variety of ways to prospective
+users of whatever they cover. There are FAQs for nearly every
+aspect of the Internet from soup to nuts.  One way to determine
+if there is an FAQ on a particular subject is to ask Veronica.
+Send her a query something like, "archie and faq" or any other
+subject. You will receive by return mail a menu of all items on
+the Internet which contain both of those words.  Presumably one
+or more of them will be the FAQ you were looking for.  If so,
+you can send another note to Veronica and ask for the FAQ file.
+She will send it back usually within minutes.
+
+     While some FAQs are fairly extensive, most are quite
+reasonable in size.  This is one of the safest things to send
+for because you are not going to get a mega-file back that costs
+you the rent money.
+
+
+
+Listserv
+
+     There are more lists on the Internet than you really want
+to know about.  Even the index is a humongous document.  There
+are, however, probably some lists out there that might be of
+interest to you.  It's quite possible that there may be some
+that will be of substantial or even irreplaceable value.
+
+     The mechanism used to manage many of these lists is called
+Listserv.  There is no way to describe the details of what is
+available using Listserv here but I can tell you how to get
+started finding out using e-mail.
+
+     When I first began work on this book, I didn't fully
+appreciate the scope of what was available strictly by e-mail.
+The one thing I did know was that Listserv was designed with e-
+mail access in mind.  This made me think that there had to be
+more of that kind of thing on the net.  As it turned out, there
+was a great deal more than I had imagined.  Most of it is
+covered to some extent in this book.
+
+     Services like Archie, Veronica and Gopher are accessed by
+e-mail in ways that  are strikingly similar to Listserv.  The
+reason why Listserv was created with e-mail in mind is because
+its home was on a network called BITNET which was technically
+not part of the Internet.  The only connection that existed
+between them was by e-mail (sound familiar?).  To accommodate
+this limitation, Listserv was designed to be accessed by e-mail.
+It has been a very workable arrangement and has, in fact, been
+borrowed by others. To access Listserv you need only send the
+server a message.  The subject field is ignored.  Place your
+instructions in the body of the message.  Here is a list of a
+few of the most often used commands.
+
+Info        <topic|?>              Get detailed info files
+List        <Detail|Short|Global>  Get description of all lists
+SUBscribe   listname <full_name>   Subscribe to a list
+REView      listname <options>     Review a list
+Query       listname               Query personal options
+SET         listname  options      Set personal options
+INDex       <filelist_name>        Obtain a list of files
+GET         filename filetype      Get file from LISTSERV
+REGister    full_name|OFF          Register yourself
+
+     To get the complete help file, send the following message:
+
+TO: listserv@bitnic.bitnet
+Subject:  Get help file (this is just for your use)
+Message:
+help
+
+     If you want more complete information, replace "help" in
+the message body with "info  refcard" to get a reference card
+which is far more complete.
+
+
+
+Usenet
+
+     On PRODIGY you have access to dozens of bulletin boards on
+which to discuss a variety of subjects.  The Internet has a
+similar arrangement called newsgroups which are provided under
+the aegis of Usenet.  It has been estimated that there are as
+many as a million postings on newsgroups worldwide every day.
+The most complete list of subject areas I have seen has over
+4,000 entries.  I have no idea how complete it was and new
+subjects are being added every day.  Suffice it to say that no
+matter what your interest is, there's probably a newsgroup of
+people who share it. (For more on Usenet see page .)
+
+     Because of the magnitude of traffic on Usenet it is not a
+practical option to access it by mail if for no other reason
+than the cost would be prohibitive.  I have scoured the net
+looking for a way to do this that  was practicable and have come
+up empty.  It's not that you can't get there from here, but more
+that you probably don't want to by any of the means  available.
+
+     I do have some suggestions that  may prove useful, however.
+Many of these groups are moderated by someone.  If you can find
+out who the moderator of the group is, you can send them an e-
+mail asking  for suggestions on how you can get involved.  It
+may not work out, but at least it's something to try.
+
+     You can use Veronica to "prospect" for Usenet newsgroups
+which are of interest to you.  Then you may be able to download
+reasonable sized portions of the dialogue.  If it is of interest
+and if you can find out who the moderator is, you can write to
+solicit help.  There's almost always an FAQ for the group
+including the moderator's name and e-mail address.  You might
+use Veronica to search for "comics faq" to find out about a
+newsgroup on comics.  It might well be worth a try.
+
+     There are a growing number of local BBS systems which
+capture Usenet traffic selectively.  Again, Veronica may be
+helpful in finding one in your area if you can't find one on
+your own.  Otherwise, you may be limited to the offerings on
+PRODIGY, which ain't chopped liver.
+
+
+                                         Chapter 12
+
+                                 Finding Full Internet Access
+
+
+
+     As you have probably long since realized, while there is a
+fantastic array of opportunities available accessing the
+Internet by e-mail, it's just a substitute for actually being
+on-line.  I  am connected directly to only two networks: the
+Internet and PRODIGY.  Between the two, I get everything I want
+and need.  I have no intentions of giving either one of them up
+without one  whale of a fight.  There are some areas of overlap,
+but to a surprising extent the two networks are profoundly
+complementary.  What one doesn't have, the other does.
+
+     If you find yourself drooling out of both sides of your
+mouth as you read about what's available, or if you try it out
+and find yourself getting frustrated at the e-mail connection
+after a while, you may want to seek direct access.
+
+
+Public Access Gateways
+
+     If you're in a moderate to large city or a college town,
+you've got a good chance of hitting pay dirt.  There are a
+growing number of private companies offering public Internet
+gateways.  You call them and they connect you to the net.  They
+are, of course, like everyone else, in business.  They will
+charge you to play their game.  What they charge varies
+dramatically from system to system. I am very fortunate to be
+paying about the same as I do for PRODIGY for unlimited access
+every month.  It's a local call and I don't pay for connect
+time.  In my experience, I'm getting quite a bargain.  A basic
+account typically runs between $10 and $35 a month on most
+systems.  You may have to pay more than that for access and
+there may or may not be on-line charges.  Most system are also
+starting to charge a modest, onetime installation fee.  These
+typically run between $10-$35.
+
+     If you are a student or staff member at a college, you can
+probably get an account through the school's network.  Even if
+you're a "civilian," you may be able to get an account through
+a school or even a business in your area.  If you have no luck
+finding a commercial provider or if you're just plain cheap, you
+might do a little poking around to see if this is an option.  If
+you're not part of the school, though, don't expect a free
+account.
+
+
+Freenets
+
+     There are also an ever-increasing number of so called
+Freenets springing up in cities all over the world.  Cleveland
+Ohio was one of the first with their Cleveland Freenet.  In my
+home state of Oregon we have freenets in Salem, the state
+capital, and in La Grande.  Neither of these towns is very large
+and the latter is a small college town in the middle of nowhere
+in the interior of eastern Oregon.  Freenets are popping up in
+Europe too.  I suspect that in the next few years freenets will
+be viewed as a basic service in towns and cities of any size.
+Possibly long before the turn of the century, any city without
+a freenet, or something a lot like one, will be considered a
+backwater, hick town.
+
+     If there's a freenet in your area, check into it.  Most of
+them offer some on-line Internet services as well as e-mail
+boxes for which they may or may not charge a modest fee.  For
+details on existing freenets, download the file described in the
+Appendix.
+
+
+
+Do It Yourself
+
+     If you are willing to spend some time and money, you can
+actually establish your own Internet gateway.  The system to
+which I subscribe offers a Point of Presence account which gives
+you the ability to run your own Gopher software and many other
+goodies. There are dedicated, packet-switched phone lines
+available to even fairly remote areas if you're willing to fork
+over the cash.
+
+     The worst case would probably be about $6 an hour.  Half of
+that is more likely.  This situation should improve in the next
+few years.  Don't forget the law of supply and demand.
+
+     If you're on the PRODIGY service already, you are probably
+in an area which is large enough to have some kind of Internet
+gateway.  There are several lists of commercial Internet
+providers around the net.  The best known, and probably the most
+comprehensive, is called PDIAL.  It is updated periodically and
+has hundreds of listing all over.  You can get it by FTP (Archie
+will help you find a copy)  or Veronica will be happy to send
+you a copy.  If you don't find what you want in PDIAL, then use
+Veronica to ferret out other such lists and keep at it until you
+succeed. Again because you're on PRODIGY already, you probably
+have access to something called PC-PURSUIT.  This is a service
+which sells you 30 hours of long-distance computer time a month
+for about $1 an hour.  It isn't available everywhere but it is
+in most large and some medium sized cities.  This would allow
+you to shop the entire country for a gateway that suited your
+purposes.  With inexpensive, flat-rate long-distance you can
+plug into any system you like.
+
+
+                                         Chapter 13
+
+                                Utility Programs You Will Need
+
+
+
+     As you become more deeply involved with the Internet, you
+will need at least a small collection of utility programs to
+assist you in manipulating the files you download.  In this
+chapter we will take a look at the most important of them.
+
+The Zip Utilities
+
+     The files you download over the net take time and what has
+become known as "bandwidth."  This term is used to describe the
+fundamental measure of the capacity of a communication link to
+move information from point to point.  To understand bandwidth
+you need only imagine a garden hose.  You can only push so much
+water through it before it begins to split its seams.  The same
+is true of a communications conduit.  This capacity for carrying
+information over a period of time is called bandwidth.
+
+     In any given transmission medium there is a finite amount
+of bandwidth available.  The more you use, the less you have
+left.  It's not all that complicated.  The trick is to conserve
+bandwidth by making the best use of what you have.
+
+     In terms of the Internet (or any other network) one of the
+ways to do this is to compress the data that is being
+transmitted before it goes into the pipeline and expand it again
+after it reaches its destination.  This is done by eliminating
+redundant information. For example, a typical document contains
+a lot of "white space": spaces, tabs, blank lines, etc.  If,
+instead of sending every space and tab, you just send a summary
+of where they are.  This can save considerable space and
+therefore bandwidth without losing any information.
+
+     There are a number of highly complex and well thought out
+schemes around that are able to compress a typical document to
+about half its original size without losing any of the
+information in it.  It's a neat little trick and it really
+works.
+
+     One of the best known and most popular of these is employed
+in a set of programs created and distributed by PKWARE called
+PKZIP.  In this suite of programs are utilities for scrunching
+and unscrunching files of all kinds as well as a few other tools
+that can be very handy.
+
+     Collectively these are often referred to as the Zip
+utilities.  They are shareware, which means that you can
+download them or copy them from any other source for free.  You
+can try them for a while and then you are expected to either
+stop using them or send in a registration form and pay for them.
+They aren't expensive and they can be worth their weight in
+gold.
+
+     The vast majority of the programs you  download from the
+Internet (not to mention other sources) will be compressed using
+the Zip utilities.  If you don't have this software, you will be
+able to download whatever you want to but you will be unable to
+use it once you get it because it needs to be reconstructed in
+a way only these programs know how to do.
+
+     Another handy thing about these "archiving" utilities is
+that when you compress files, you can put more than one original
+in the same archive.  In other words, you can compress any
+number of files and when it's all over, they have become one
+file that is usually about half the size that the individual
+files were originally.  This is very convenient when downloading
+too, because it means that you can capture one large bundle
+which contains a set of related files.
+
+     There is a catch-22 here, just in case you haven't already
+noticed.   If you download the Zip utilities and they are
+compressed, how do you un-compress them so you can use them? Not
+to worry.  These people are no fools.  They have anticipated
+this problem and make their package available in the form of
+what is call a "self-unarchiving" file.  Basically, the way it
+works is this: after the files are compressed, they are turned
+into a very special program.  When you run this program, it
+simply extracts the file in it and returns them to their
+original, individual forms.  Slick, eh?  As you will soon see,
+unfortunately, not everything works out so well.
+
+
+uuencode and uudecode
+
+     There is another need that arises in the transmission of
+binary data (like programs and Zip files) using e-mail instead
+of a direct transfer.  There are, of course, utilities to handle
+these problems, too.  One solution involves a pair of programs:
+uuencode and its mate uudecode.
+
+     You will need this pair of utility programs if you are
+going to be downloading binary files such as programs.  Binary
+files have to be encoded because they contain characters other
+than text which can't be sent by mail.  Files longer than 60k
+have to be broken into smaller pieces and reassembled at your
+end after they are transmitted.  In order to make these
+processes work correctly, there must be software at both ends of
+the transaction that agree on the way in which it is to be done.
+uuencode is a standard technique that is readily available which
+encodes binary files at the sending end.  uudecode is its
+counterpart which decodes and reassembles the files at the
+receiving end.
+
+     What these programs do is to convert binary files into an
+equivalent file that contains only legitimate text characters
+(ones you can enter from the keyboard) so it won't upset mail
+programs.  Then those text-like files are translated back after
+delivery into a single file that is identical to the original.
+If you don't get copies of these two programs, you will have
+little luck downloading programs or any other binary files.
+
+     You can get a nice little package called Extract that
+contains the functionality of both uuencode and uudecode.  It
+works with both DOS and Windows 3.x and is readily available on
+the Internet but, unfortunately, there is a catch-22.  If you
+send for it by e-mail (which you can do), it will arrive encoded
+by uuencode.  Since you don't yet have the decoder operational,
+you will be unable to use it.  It's one of those things like,
+"If we had some ham, we could have some ham and eggs if we only
+had some eggs."  After spending many hours searching the
+Internet, I found the solution right here in my own back yard.
+
+     I'll give you detailed instructions on how to get Extract
+from the best source I have found that is available to all.  It
+does involve a long-distance call for most readers, but it
+shouldn't amount to more than a couple of dollars if you call
+during off-peak hours.  This is a good idea anyway because the
+system you will be calling will not be as busy and things will
+go much faster.  Plus, this is a bona fide Internet site and you
+may want to take the opportunity to look around while you're
+there.
+
+     Here's an overview of what you will have to do.  The step-
+by-step instructions come later.  You will place a call to a
+system in Portland, Oregon called Portals.  Once on Portals, you
+will follow a path through some menus that will lead you into a
+Gopher server in Minnesota and eventually to a menu of Veronica
+servers.  You will then ask one of them to find a copy of
+Extract for you and when it has, you will download the file.
+Once you have it you can either log-off Portals, or just poke
+around as long as your interest and wallet permit.  Once you're
+back on your own system,  you  just unzip it and you're ready to
+go.  If you want to run it under Windows, you'll have to install
+it first.  That's the lay of the land.  Here's what you'll need
+to perform the operation.
+
+1.  A modem program that supports the Kermit file transfer
+protocol and is capable of emulating a VT-100 terminal.
+
+2.  The PKZIP utilities package.  If you don't have it already,
+    you can download it through Portals at the same time you get
+    Extract.
+
+Okay, here we go.
+
+1.  Set your modem program's communications format to Even
+parity, 7 data bits and 1 stop bit.
+
+2.  Tell it to dial 1-503-725-5220 for 2400 baud or faster, or
+    1-503-725-3201 for 1200 baud
+
+3.  When the modem connects, press the ENTER key 4 or 5 times.
+    You will then see the input prompt CISCO>.  Enter the word
+    "Portals" and hit ENTER again.
+
+4.  There will be a couple of self-explanatory prompts after
+ that and then you will be at Portals' main menu.
+
+5.  Select item 11 (Other Network Resources) by typing 11 and
+    ENTER.
+6.  On the next menu select item 3 (University of Minnesota
+Gopher) and press ENTER.
+
+7.  At the "login:" prompt type "gopher" and ENTER.
+
+8.  When it prints "VT-100" just hit ENTER.
+
+9.  This will bring you to the main Gopher menu.  Select item 8
+    (Other Gopher Servers).
+
+10. On the next menu select item 2 (Search Gopherspace using
+ Veronica).
+
+11. Now you are at the Veronica servers menu.  There will be one
+    or more servers listed.  Theoretically, they are all the
+ same, but some are busier than others and some seem to be
+better informed on a given subject than others.  You want to
+ select one of the items that says, "Search gopherspace
+at..."
+
+12. You can just type the number of the item and press ENTER.
+    A box will appear and ask you what you want to look for.
+  Type in "extrct34" and hit ENTER.  In a few moments you
+should see a list with several items that say "extrct34.zip
+<PC Bin>".
+
+13. Use the arrow keys to move to any one of these and type "D"
+    to download it.  (Note that this is a capital D without
+ENTER).
+
+14. A menu of download protocols will appear and you will select
+    Kermit by typing 5.  Do not hit ENTER here.
+
+15. In a few moments you will see a message in the lower right
+    corner of the screen that says "Receiving file..."  In a few
+    seconds the screen will clear and you will see a message on
+    the top line that says something like "Begin your download
+    procedure."  At this point hit whatever keys your
+communications program requires to begin a Kermit download.
+ (Often this requires you hit PgDn followed by K for Kermit.)
+
+16. Now sit back and wait for the download to finish.  This
+should take about 10 minutes at 2400 baud, much less at 9600
+ baud.
+
+17. When the download is finished, you have several choices.
+  If you already have PKZIP, you can just go to step 21 and
+ quit.  If not, you can download PKZIP at this time.  In
+either case, you may want to stick around and do a little
+exploring.  Here we will assume that you want to download
+PKZIP. If you don't want to do that, skip to item 21 on this
+ list.
+
+18. To download PKZIP, press U for "Up" and you will be back at
+    the Veronica menu.  Now press f to initiate another search.
+    Press control-U to erase the "extrct34" you entered earlier,
+    then type "pkzip and exe" in its place and press ENTER.
+
+19. Now you will get a list of PKZIP files.  Arrow to one that
+    says PKZIP???.EXE <PC Bin>"  The ??? will be a version
+number.  Pick the one with the highest number.  This will     be
+the most recent version of the software.
+
+20. Now repeat steps 13 through 16 as before.
+
+21. If you're ready to quit, skip ahead to the next item on this
+    list.  If you want to do a little exploring, just type "U"
+    again and you're back at Veronica.  You can do another
+search for whatever you want to or you can keep hitting "U"
+to back up through the menus and poke around to your heart's
+ content.
+
+22. When you're ready to quit, just type "q" for quit and "y"
+  to confirm that you really mean it.  Do not hit f after
+these keys.
+
+23. Now you're back at Portals.  To explore here, type "p" for
+    previous and ENTER to go back up through the menus.
+
+24. When you're ready to quit Portals, type "q" f to quit and
+  "y" f to confirm.  Hang up the phone (or wait a few moments
+  and your modem will do it for you.)
+
+     Well, it has been a somewhat long and involved process but
+hopefully a successful one.  Now you should have both the Zip
+utilities and the uuencode software Extract you will need to
+have your way with the Internet.  You have also had at least a
+minimal exposure to the Internet on-line.  This will be highly
+advantageous later when you try to access things by e-mail.
+
+     There are a few things that you should be aware of that may
+occur during this procedure.  First, you may have some trouble
+getting logged-on to Portals at the slower baud rates,
+especially during high-traffic periods.  The best bet is to call
+late at night (Pacific Time) and just keep calling back until
+you get connected.  If you hit ENTER 8 or 10 times without
+response, hang up and try again.
+
+     When you make your search requests of Veronica, you may get
+a message like, "Too many connections.  Try again soon."  Take
+that literally.  Do it again right away.  These systems are busy
+but that changes on a moment-to-moment basis.  If you try one
+server several times without success, try another one.
+Sometimes the message will say that you are unable to connect to
+another system or that nothing was found.  Believe me, these
+programs are there so don't take no for an answer.  In the worst
+case, where they're all just too busy to help you, you may have
+to all back at another time and try again.  This is highly
+unlikely but it could happen.
+
+     There is one other thing you should be aware of.  The
+menus, both on Portals and on Gopher change without notice.  As
+a result, the item numbers given here may not be the same at a
+later date (possibly later today!)  That is why I gave the text
+that goes along with them.  Check to be sure that the text
+agrees (more or less) with the numbers before using them.  If a
+menu item has another number next to it, use that number rather
+than the one I gave you.  When I have told you to use the arrow
+keys, you can also use the letter J to move down and K to move
+up.  I tell you this just in case your VT-100 emulator isn't
+quite perfect.  If that happens, the arrows may not work as
+intended.
+
+     Don't be intimidated by all these warnings.  They're only
+here to cover all contingencies and because I want you to be
+successful.  Chances are you will be able to get in and out with
+the goods the first time in 10 or 15 minutes without a hitch.
+
+     With split files you must adhere to a certain file naming
+convention for Extract to work correctly and automatically.  It
+expects you to tell it which is the first file that it will use
+to find the mates and put them back together.  An example is
+probably the best way to explain this.  Let's say you have a
+file whose original name was abcd.zip.  The abcd is the root
+file name.  If that file comes broken into four pieces, they
+should be named (or renamed) to abcd1.uue, abcd2.uue, abcd3.uue
+and abcd4.uue.  The .uue file extension is the default which the
+program  expects.  Also be sure that you number the modules in
+their correct order.  This should be obvious because the e-mail
+subject line for each of them will end with "Part 2" and so on.
+The first file, however, will not include a part number.  This
+one you will name xxxx1.uue followed by xxxx2.uue, etc.  Once
+you've done it a couple of times, it will be easy.
+
+     That's it.  The result will be a file abcd.zip which will
+be identical to the original.  If the file is very large (over
+600k), you will need to allow for a two-digit count in the file
+name (e.g., abcd12.uue).  Since file names are otherwise
+arbitrary, you can name them just about anything you want to
+without causing a problem  If the file involved is a Zip file in
+the first place, you will, of course, have to unzip it after
+uudecode reassembles it.
+
+     I know this sounds like a lot of mumbo jumbo but it is all
+necessary and for good reasons.  You are trying to make
+programs, like mailers, do things they weren't intended to do.
+It is only thanks to the ingenuity and persistence of a lot of
+good computer people that these facilities are there at all, let
+alone work.  Really, it isn't as bad as it looks.  Once you've
+done it a couple of times, you'll wonder what the big deal was.
+It also gives you quite a sense of accomplishment to force a
+whole network of thousands of computer systems to do your
+bidding, even though it runs counter to its basic inclinations.
+It can be a kind of macho thing.
+
+                                         Chapter 14
+
+                                  A Few Tips and A Bon Voyage
+
+
+
+Searching for Gold with Veronica
+
+     Whether you're adventurous, need information fast or just
+have an insatiable curiosity, Veronica is your friend in need.
+Granted, she's a little clumsy to use with e-mail, but at least
+she's quick.  You can carry on a fairly extensive (and
+successful) search in a matter of minutes, once you get the hang
+of it.  The turn around time from the moment you send your query
+until you get an answer back is usually only a minute or two.
+You will almost certainly spend more time going over the results
+of the search than it took to get them.
+
+     One of the keys to effective use of Veronica is in devising
+good search criteria. As with so many other facets of life and
+learning, the better the questions you ask, the better the
+answers you get.  A little practice is always helpful, but I
+hope to get you off on the right foot at least.
+
+     You may tend to make your queries too broad at first.  This
+will produce large response files and what you're looking for
+may not even make the cut (Remember, unless you say otherwise,
+you'll only get the first couple hundred hits.  This may seem
+like a lot but I've seen reasonably well constructed queries
+turn up thousands of hits!).  You may go the other way and make
+you're queries so specific that they will come up empty.  After
+a while, you begin to get a feel for what will work best.
+
+     Veronica is not case sensitive, fortunately, but she is
+very conscious of things like spelling and punctuation.  Do not
+use any punctuation at all.  For example, if you are looking for
+a copy of a program called xyz.zip, don't ask for it just that
+way.  Ask for either just xyz if it is likely to be unique, or
+ask for xyz and zip.  That will bring back only items which
+contain both words. As we discussed earlier, you can use
+parentheses in your search expressions.  Learn to use them well
+and you will have a much better chance of hitting what you want
+the first time without having to go through a long and possibly
+expensive list of hits.  I have never had any success with
+"nested parens."  Those are parens within parens.  For example,
+((this and that) or (these and  (those or them))).  It just
+doesn't seem to compute, as they say.
+
+     Also remember that you don't have to spell things out all
+the way.  The search mechanism looks for any occurrence of the
+things you specify anywhere in any of the entries it looks at.
+There's no point spelling out Pittsburgh when you can just give
+it pittsb instead.  This will also save precious space on the
+Subject line of your query and minimize the possibility of
+getting a multipart reply with the part numbers shoved off the
+end.
+
+     Try to send your queries to Veronica servers that are in a
+part of the world where they are likely not to be too busy.  For
+example, if it is 11pm in New York, it is only 4 am in Italy.
+It might be a good time to make a Veronica query at the
+University of Pisa.  If its 7 am in New York, then University of
+Nevada at Reno would be a good place to go because it will be 4
+am there and at least there won't be many local users on.
+
+
+Controlling Costs
+
+     I've already tried to give you the best advice I could
+about controlling costs  all along.  Here are a few thoughts
+that didn't come up anywhere else or that bear repeating.
+
+     One of the keys in operating efficiently is planning.  Look
+ahead before you start sending e-mail to every corner of the
+earth.  If you're looking for someone's e-mail address, try to
+do it in a more conventional way first.  A dollars worth of long
+distance calling could bring better results than several dollars
+worth of e-mail to whois servers.  Unless you can easily afford
+it, just try to find a postmaster at their host system and drop
+them a line asking for help.  With any luck, you should be able
+to dig up an address that way for about 40 cents (4 messages;
+one to whois to find the postmasters domain address; one to the
+postmaster; the CODs back from those two messages).  Make it a
+habit of doing all your reading and writing off-line.  You are
+less likely to be in a hurry and you can check and revise things
+before sending them out into Cyberspace.
+
+     Learn from your mistakes so you won't have to make (and
+pay) for them again.  It's bad enough to goof once, but to do it
+again and again is a real drag.  Talk to other people who are
+doing similar things and learn from each other's mistakes.
+Whether you realize it or not, this book you're reading is based
+on...well, a lot of mistakes I've made over a long period of
+time.  If you pay close attention, you will be less likely to
+make the same ones yourself.
+
+
+Be Experimental
+
+     I have long been a true believer that when it comes to
+anything to do with computers, the best learning takes place
+while experimenting.  Try some things, even if you're not quite
+sure what will happen.  Of all the explorations I have made in
+my life, expeditions into Cyberspace have been the most
+consistently surprising.  You almost always end up with
+something that you couldn't have guessed at.  That, for me at
+least, is one of the fatal attractions of the Internet: it
+continues to surprise and delight me.  It is nothing short of
+magical in that respect.
+
+
+Learn Your Tools
+
+     Whether you're downloading files, sending e-mail, searching
+for an address or  a piece of information, you are using the
+computer as a tool.  More specifically, you are using computer
+software.  The better you know your tools, the more easily,
+quickly and surely you will get what you want.
+
+     Getting involved with the Internet will of necessity bring
+new tools into your life.  Get them and learn how to use them so
+that they become your willing servants and not your enemies.  We
+have discussed a few here but there are many more that, while
+they may not be strictly speaking necessary, are nonetheless
+very helpful.  Again, talk to people and find out what they're
+using and where you can get it.  Then learn to use it in your
+own way.
+
+     You are embarking on what promises to be a grand adventure:
+the exploration of space, Cyberspace that is.  Be like explorers
+throughout the ages and bring that adventurous spirit into
+everything you do in Cyberspace.  As one who has been there and
+back many times, I can tell you that the world is indeed
+shrinking at a breathtaking rate and the Internet is driving
+that implosion as much as anything ever has.  So reach out there
+and touch someone.  The world is waiting for you.  Oh yes,
+don't' forget to have the time of your life!
+
+                                         Appendix A
+
+Glossary of Internet Terms
+
+/
+
+     When you see a / at the end of a line in a Gopher menu, it
+indicates that this item is another directory, not a file.
+
+<?>
+
+     When you see a ? at the end of a line in a Gopher menu, it
+indicates that this item asks you for something to search for.
+Whois servers, Veronica servers and dictionaries are examples.
+
+Archie
+
+     A mechanism for searching the Internet for files available
+for FTP downloading (see page  for more).
+
+Archive
+
+     A collection of information.  Often used to refer to a
+database or a compressed file containing one or more programs,
+text files or other information (see page  for more).
+
+Arj
+
+     One of the popular methods of compressing and combining
+information.  Not as common on the Internet as it is on bulletin
+boards.
+
+ASCII
+
+     A set of characters ordinarily associated with those that
+can be entered on a keyboard.  (See Binary).
+
+Bandwidth
+
+     The amount of information that can be carried over a
+communications line is finite and is referred to as bandwidth.
+It is a measure of a system's capacity to convey information
+from one point to another.
+
+Baud
+
+     A measure of the speed of data transmission over the
+telephone or by other means.
+
+<bin>
+
+     When you see a <bin> at the end of a line in a Gopher menu,
+it indicates that this item is a binary file.  (See <PC bin>)
+
+Binary File
+
+     A file which contains information other than simple text.
+Such files contain numbers outside the range of 0-127 which is
+the scope of the ASCII character set.  (See ASCII)
+
+Client
+
+     A program or computer which is dependent on another program
+or computer for information or other necessary operating data.
+The computer on which it is dependent is called the Host.  (See
+Host)
+
+Connected
+
+     You are said to be  connected to a system when an active
+communications path has been established.  This term is used
+frequently when you initially dial into a system or when one
+system to which you are already connected is passing you off to
+another one.
+
+Cyberspace
+
+     This is the name users have given to the electronic reality
+you encounter on the Internet.  It is meant to highlight the
+contrast between the virtual reality of the Internet and the so
+called "real world."
+
+Data Bits
+
+     Information is sent by modems in small bundles analogous to
+the well known byte of storage.  In the case of data
+communication, there are matters of transmission to be
+considered.  The number of data bits is one of the things that
+both sending and receiving computers must agree on.  As a user,
+all you really need to know when calling another system is
+whether it expects 7 or 8 data bits.  What is required is that
+your computer agrees with the one at the other end of the wire.
+With PRODIGY, this is taken care of automatically by the
+software.  When dialing into another system, you have to
+instruct your communication software how many data bits to use.
+(See also, Stop Bits and Parity.)
+
+Directory
+
+     On the Internet as in DOS, files are collected into
+directories.  These directories have sub-directories within them
+and so on.  They use the same tree-like structure as DOS.   This
+only becomes pertinent when you are using FTP to download files
+remotely.  You must know the address of the remote computer, the
+sub-directory in which the file resides and, of course, the name
+of the file.  Unlike DOS, which uses the \ (back-slash)
+character to separate directories, the systems you will
+encounter on the Internet use the / (forward-slash) character
+for that purpose.
+
+Download
+
+     This term simply means receiving a file from another
+computer, usually by modem.
+
+E-mail
+
+     It is a contraction for electronic-mail; mail conveyed by
+electronic  rather than physical means.
+
+Fidonet
+
+     A somewhat informal network of BBS computers which has
+pioneered long-distance communication.
+
+File Transfer
+
+     This term applies any time a package of information in the
+form of a file is transmitted from one computer to another.  It
+includes uploads and downloads as well as e-mail-like transfers.
+
+
+FTP
+
+     An acronym for File Transfer Protocol.
+
+Gateway
+
+     Any time two computer networks provide a means of
+communicating between each other, this channel is called a
+gateway.
+
+Gopher
+
+     Gopher is a server program which is present on a great many
+Internet systems.  Its function is to offer a menu driven,
+reasonably friendly way of accessing the mind-boggling array of
+information and resources available on the Internet.  The
+systems which run Gopher servers are affectionately known as
+"burrows" or just "gopher holes."  The vast range of material
+accessible by Gopher is called "Gopherspace."
+
+Gopherspace
+
+     (See Gopher above.)
+
+Host
+
+     A host is any computer, system or network to which you are
+connected as an outside terminal.  For example, PRODIGY is the
+host when you are logged-on to it.
+
+IP
+
+     This is an acronym for Internet Protocol.  The IP is a set
+of rules by which packets of information are addressed for
+delivery throughout the Internet
+
+Lhz
+
+     This is another form of data compression similar to Zip,
+Arc and Arj.  Less common on the Internet than on other systems.
+
+
+Listserv
+
+     As the name implies, it is a list server program accessible
+at numerous points through the Internet.  It is actually under
+the umbrella of BITNET and, since the Internet is only connected
+to BITNET by e-mail (like PRODIGY), Listserv can only be
+accessed by e-mail.  (refer to page  for more.)
+
+Log-on
+
+     To log-on to a system you usually must enter your account
+identifier, name or other information before you are allowed to
+use the resources of that system.  Sometimes it is a system
+security procedure or may be, as with public systems, simply a
+way of keeping internal records of system activity.  On secure
+systems you must enter a valid user ID and password to proceed
+any farther.
+
+Log-off
+
+     When you are ready to terminate your connection to a
+system, you must log-off.  It is the opposite of logging-on.
+You can simply hang up the phone, but this is always considered
+bad form and can, in some cases, cause problems after you're
+gone.  Whenever possible, exit in whatever way the host
+provides.
+
+Mail Manager
+
+     To access the Internet by e-mail from PRODIGY you must use
+their Mail Manager program.  Mail Manager allows you to read,
+write, edit and manage PRODIGY e-mail.
+
+Modem Program
+
+     To use your modem for communicating with other computers,
+you must have software to control it.   The PRODIGY software is
+a special modem program that accesses only the PRODIGY system.
+Other programs are more general and, while they can't be used to
+access PRODIGY, they can be used with most other systems.
+Procomm, Telink, BitCom and Qmodem are just a few of the
+programs commonly used for this purpose.
+
+Modem
+
+     This is a contraction for Modulator/demodulator.  It is a
+device that converts digital (computer) information into sound
+so that it can be sent over telephone lines and, once it has
+reached its destination, converts it back into digital form
+again.  A modem can be viewed as a translator which operates
+between a computer and a telephone.
+
+Node
+
+     When a group of computers are hooked together, each one
+forms an intersection in the network.  These intersections are
+called nodes.  They are like the train depots in a railway
+system, in a very loose sense.  You may see this term referred
+to now and then on the Internet.
+
+On-Ramp
+
+     In the metaphor of the "Electronic Superhighway" an on-ramp
+is anyplace where you can enter the highway and merge with the
+other traffic.  This is usually a "gateway" system.  From the
+standpoint of e-mail, PRODIGY is an on-ramp.  A full-fledged on-
+ramp would offer you Telnet and other on-line access to the
+Internet.
+
+Parity
+
+     Parity is one of the components of the protocol used in
+modem communication.  It is a "cheap" way of checking the
+validity of a small bundle of data after it has been received.
+It simply indicates whether there are supposed to be an even or
+odd number of bits turned on in this particular bundle.  The
+most common settings are: Odd, Even and None (sometimes called
+Mark).
+
+<PC bin>
+
+     When you see this at the end of a line in a Gopher menu, it
+indicates that the item in question is a binary file meant to be
+used on an IBM compatible PC.  On the Internet, these files will
+usually be either programs, Zip files or both.  The same would
+also apply to picture, sound or other binary files, however.
+
+Port
+
+     Host systems on the Internet are usually large, mainframe
+or minicomputers which, like a large building, have many "doors"
+through which to enter and leave.  In a computer system these
+doors are called ports and it is sometimes necessary to specify
+which port you are addressing (just like it may be necessary to
+enter or leave by a particular door in a building).  The most
+likely place where you will get involved with ports is when you
+are corresponding with a Gopher server by e-mail.  Fortunately,
+you will almost always be simply copying a block of addressing
+information which already includes a port designation and will
+not have to come up with one on your own.
+
+Protocol
+
+     This is a set of agreements, rules or procedures which are
+adhered to by two systems so that they may interact in a
+reliable fashion.  TCP/IP is the fundamental protocol for the
+Internet.  There are also file transfer protocols like Xmodem,
+Ymodem, Zmodem and Kermit.  These are involved with the
+procedures used in transferring files from one system to
+another.
+
+Register
+
+     When you want a system to know who and where you are, or
+when it wants to know, the process by which you give it that
+information is called registration.  The most likely place you
+will encounter this on the Internet is with the Listserv system.
+Once you are registered with Listserv, it knows who you are and
+it makes subscribing to and receiving lists easier.
+
+Server
+
+     A server is a computer program running on a host system
+which exists to serve clients (which would be you) in a
+particular way.  They are specialized programs such as Gopher,
+Veronica, Archie, and whois.
+
+Snailmail
+
+     The efforts of the US Postal Department are not-so-
+affectionately known as snailmail on the Internet.  This is
+meant to underscore the contrast in delivery time between postal
+mail and e-mail.  You must admit, there is a dramatic difference
+between fractions of seconds and days.  The term is often used
+with a certain haughty disdain by residents of Cyberspace.
+
+Stop Bits
+
+     This is an element of modem communication protocol.  The
+value will be either 0 or 1, depending on the system.  In the
+preponderance of cases the setting will be 1.  (See also Data
+bits and Parity.)
+
+Sub-directory
+
+     This refers to a file directory which is within another
+directory, just as in DOS.  (See Directory)
+
+Sysop
+
+     This is a contraction for System Operator; the person who
+is responsible for the operation of a system.  In larger systems
+this person is more likely to be call a System Administrator.
+
+TCP
+
+     This acronym stands for Transmission Control Protocol which
+is the set of rules governing the transmission of information
+across and between networks on the Internet.  Along with IP it
+represents the essential identity of the Internet itself (See IP
+for more).
+
+<TEL>
+
+     When you see this at the end of a line in a Gopher menu, it
+indicates that this item causes you to leave the Internet and
+Telnet to another system.  A typical example would be accessing
+a library card catalog.
+
+Telecommunications Program
+
+     (See Modem Program )
+
+Telnet
+
+     This is a mechanism that allows users on the Internet to
+log-on to remote hosts as if they were a terminal at the host's
+site.  It is, unfortunately, one of the things you cannot access
+from PRODIGY.
+
+Terminal Emulation
+
+     Large, multi-user computers are able to deal with only
+certain kinds of computer terminals.  The list of compatible
+terminals on a given system may be long or short but it is
+always finite.  If you are calling in from a PC, you are not
+actually a terminal at all.  Your modem program must therefore
+"pretend" to be one of the terminals that the host expects.
+This impersonation is called terminal emulation.  By far the
+most common terminal emulation on the Internet is Digital
+Equipment Corporation's VT-100.  This only applies when you are
+actually logging on a system and is irrelevant for e-mail.  If
+you are going to access the Internet only by e-mail, you will
+not have to deal with terminal emulation at all.
+
+Unix
+
+     This is the predominant operating system found on the host
+computers of the Internet.  There are certain conventions which
+are intrinsic to Unix systems such as terminology and keystrokes
+used for specific purposes.  In dealing with the Internet by e-
+mail, most of these are virtually unimportant.  If you ever get
+a direct Internet account and don't know a thing about Unix, I
+strongly suggest that you get a book or take a course or
+something.  Unix is a very powerful and elegant operating system
+but has never been known for its user-friendliness.
+
+Upload
+
+     The process of transferring a file from your computer to
+another is called an upload.  It is the opposite of a download
+in that it moves information "up" and out of your computer
+instead of "down" and into it.
+
+User Account
+
+     When you become a registered user on a system, you are
+assigned a user account.  This usually involves a "user ID" and
+an e-mail address.  You have (presumably) a user account on
+PRODIGY and possibly other systems.  You cannot receive e-mail
+without an account because you  have no address there .
+
+Veronica
+
+     Like Gopher, Veronica is a server on the Internet.  You can
+ask her to find things for you on the Internet and she will go
+out looking  and reply with a list of what she found.
+
+Whois
+
+     This is yet another server.  This one's job is, as the name
+implies, to find out who someone or something is.  Basically, it
+is as close to an Internet phone book as exists.  There are many
+whois servers on the Internet.  Some are global in scope, others
+are limited largely to a particular theater (like the military)
+while still others are strictly local (a college campus or
+corporation).  The more general a whois server is, the more
+likely it is to have an entry for a computer system or network
+and the less likely it is to have one for a particular person,
+and conversely.
+
+ZIP
+
+     No, its got nothing to do with postal codes.  It refers to
+a type of file compression implemented by PKWARE called PKZIP.
+After a file is Zipped (compressed) it usually takes up about
+half the space and can therefore be uploaded or downloaded in
+half the time.
+
+                                         Appendix B
+
+                                         Bibliography
+
+     These are not by any means the only books on the Internet,
+but they are the most recent and popular.  See your local
+bookstore for prices and availability.
+
+Marine, April
+Internet--getting started
+PTR Prentice Hall, c1994.
+
+Fisher, Sharon
+Riding the Internet highway
+New Riders Pub., 1993.
+
+Kehoe, Brendan P.
+Zen and the art of the Internet : a beginner's guide
+PTR Prentice Hall, c1993.
+
+Krol, Ed
+The whole Internet : user's guide & catalog
+O'Reilly & Associates, Inc., 1992.
+
+LaQuey, Tracy
+The Internet companion : a beginner's guide to global networking
+Addison-Wesley, c1993.
+
+Malamud, Carl
+Exploring the Internet : a technical travelogue
+PTR Prentice Hall, c1992.
+
+Rose, Marshall T.
+The Internet message : closing the book with electronic mail PTR
+Prentice Hall, c1993.
+
+                                         Appendix C
+
+                                    Lots of Gopher Goodies
+
+
+     The following is a compilation of Gopher addresses which
+will search for or retrieve files which may be of interest.
+Some are text files which deal with various topics related to
+the Internet, others are system destinations, servers and other
+resources.  Several are lists of bulletin boards, public
+Internet access providers and inter-network mailing
+instructions.  Look over this listing and send for whatever
+appeals to you.  To help you decide, I have included some brief
+notes for each one.  This information was all tested and valid
+at press time but may have since changed.  If you find that such
+is the case, just use Veronica to search for another location on
+the net.  That, after all, is how I found them all in the first
+place.  Have fun!
+
+Note:  For instructions on how to use these address blocs and
+others listed below, refer to the Chapter 8.
+
+Hytelnet (750k)
+
+     This is a hyper-text database program that presents
+thousands of Internet Telnet destinations in a highly accessible
+format.  While you cannot Telnet to them through PRODIGY, you
+can use this information to find domain names for later e-mail,
+FTP or what have you.
+
+Type=5
+Name=hyteln66.zip
+Path=ftp:ftp.usask.ca@/pub/hytelnet/pc/hyteln66.zip
+Port=70
+Host=gopher.usask.ca
+
+Hitchhiker's Guide to the Internet (81k)
+
+     A novel approach to exploring the Internet with a sense of
+humor.
+Type=0
+Name=hitch.hikers.guide.to.the.net
+Path=0/humor/computer/hitch.hikers.guide.to.the.net
+Port=6969
+Host=gofish.aiss.uiuc.edu
+
+Zen And The Art Of The Internet (177k)
+
+     A well known "industry standard" book on the Internet and
+its resources.
+
+Type=0
+Name=Zen and the Art of the Internet
+Path=0/onet/zen10.txt
+Port=70
+Host=vm.utcc.utoronto.ca
+
+The Incomplete Guide to the Internet (545k)
+
+     This document is largely aimed at  teachers and students
+using (or wanting to use) the Internet.  It is quite extensive.
+
+Type=0
+Name=The Incomplete Guide to the Internet - ~300 pages
+Path=0/etc/Doc-Swear/etc/IncompleteGuide.July.txt
+Port=70
+Host=jarrah.itd.adelaide.edu.au
+
+Surfing the Internet (62k)
+
+     An overview of wandering around the net intelligently;
+another "industry standard."
+
+Type=0
+Name=surfing the Internet 2.0.3
+Path=R0-61333-/Mailing-list-archives/ail-93/current/surfing the
+Internet 2.0.3
+Port=70
+Host=gopher.csos.orst.edu
+
+
+Surfing the Wild Internet (24k)
+
+     Just for fun.
+
+Type=0
+Name=Surfing the Wild Internet (Mandel SRI)
+Path=0/Comm/Surfing the Wild Internet (Mandel SRI)
+Port=70
+Host=groupw.cns.vt.edu
+
+PDIAL (Public Dial-up Internet Access List, Dec. 1, 1993)(66k)
+
+     This is the definitive list of public Internet providers.
+It contains the vital statistics on hundreds of dial-up systems
+which will give you direct access to the Internet.  This list is
+updated periodically.  The information given here is for the
+most recent version at press time.  You can subscribe to it
+through Listserv.  Details on how to do that are included in
+every edition of the list.
+
+Type=0
+Name=PDIAL #013: Public Dialup Internet Access List
+Path=0/FAQ/alt/pdial
+Port=70
+Host=gopher.physics.utoronto.ca
+
+THELIST (97k)
+
+     This is a list of public access bulletin boards all over
+everywhere.  Take a look if you want to find some BBSs in your
+area.
+
+Type=9
+Name=  94 921114 BBS1192B.ZIP 'THELIST' national BBS list for
+November
+Path=9/pc/dos/bbslists/bbs1192b.zip
+Port=70
+Host=ftp.univie.ac.at
+
+Internet Mailing Guide (22k)
+
+     If you want to establish e-mail contact with people on
+other  networks, either public or private, this is your
+translating gazetteer for inter-network addressing.  It gives
+the format needed to send mail to and from the Internet and
+other networks.
+
+Type=0
+Name=Internet Mailing Guide (v1.1)
+Path=0/INTERNET Information and Services/Internet Mailing Guide
+(v1.1)
+Port=70
+Host=bragg.ncl.ac.uk
+
+Project Gutenberg Files
+
+     Project Gutenberg is an ongoing collection of full-text
+books in electronic form.  It is only one such project going on
+but it was the first and is still, to the best of my knowledge,
+the biggest.  Here are some Gopher addresses to send to for more
+information and books.
+
+A menu of books by title:
+
+Type=1
+Name=By Title
+Path=1/Ebooks/By Title
+Port=70
+Host=joeboy.micro.umn.edu
+
+A list of books by author:
+
+Type=1
+Name=By Author
+Path=1/Ebooks/By Author
+Port=70
+Host=joeboy.micro.umn.edu
+
+     To search for books, send a Gopher message with the search
+criteria in the Subject of the message:
+
+Type=7
+Name=Search Electronic Books
+Path=7/indexes/etext-index/index
+Port=70
+Host=joeboy.micro.umn.edu
+
+     For a history of Project Gutenberg, it's goals and methods
+(note: the Path here is very long but must be included
+verbatim):
+
+Type=0
+Name=Project Gutenberg - its Goals, History and Plans: Feb 92
+Port=70
+Path=0/Allgemeine INFORMATIONSDIENSTE (Biblotheken, Faten-DBs
+...)/Electronic Books - maschinenlesbare Texte/Project Gutenberg
+- its Goals, History and Plans:Feb 92
+Host=alf.zfn.uni-bremen.de
+
+Fidonet <=> Internet Mailing Instructions (18k)
+
+     This  file was compiled by the sysop of a Fidonet BBS on
+how to address e-mail between Fido and Internet.  It is more
+complete than the Internet Mailing Guide but deals only with
+Fido.
+
+Type=0+
+Name=gateways.fid
+Path=0/0-Most-Packages/simtel20/fido/gateways.fid
+Port=70
+Host=src.doc.ic.ac.uk
+
+Glasnet Description File (3k)
+
+Type=0
+Name=GlasNet P Sounds Like, and Is, a Soviet Computer Network
+Path=D tiserve.mit.edu 9000 25691 css-tps
+Port=71
+Host=noc.drexel.edu
+
+To Get a List of Freenets
+
+     This isn't exactly a list, it is actually a Veronica search
+on the keyword freenet.   (Please note that the Path= line is
+too long for the margins here but should be spelled out on a
+single line when you use it.  Also there is no hyphen in
+"telnet.")
+
+Type=1
+Name=Telnet to Freenets
+Path=1/Other (Weather,
+HortInfo...)/testing/Freenet_Documents/telnet_to_freenets
+Port=70
+Host=gopher.usask.ca
+
+List of Toll Free BBSs (Part 1-23k, Part 2-14k)
+
+     This file contains the most extensive listing I've seen of
+BBSs and other systems accessible through 800 numbers.  Access
+is restricted in some cases, but there are customer support
+boards for many vendors and several public and government
+systems listed.  It is in two parts so don't forget to send for
+both.
+
+Type=0
+Name=800-TollFree BBS (Part 1)
+Path=D penninfo-srv.upenn.edu 9000 12031 African_Studies
+Port=71
+Host=noc.drexel.edu
+
+Type=0
+Name=800-TollFree BBS (Part 2)
+Path=D penninfo-srv.upenn.edu 9000 12031 African_Studies
+Port=71
+Host=noc.drexel.edu
+
+Veronica Servers:
+
+     Here are the Gopher access addresses for every Veronica
+server I have been able to find.  About half of these I didn't
+even know existed until I went looking.  The most commonly used
+ones are indicated with a * after the Name= line.  Do not
+include the * when using these, it is strictly a notation here.
+The rest I haven't actually accessed by mail but they came off
+menus on current Gopher servers at various locations, so I have
+every reason to expect them to be valid at press time.
+
+Type=7
+Name=Search gopherspace at Veronica;at NYSERNet*
+Path=
+Port=2347
+Host=empire.nysernet.org
+
+Type=7
+Name=Search gopherspace at Veronica;at University of Pisa*
+Path=
+Port=2347
+Host=serra.unipi.it
+
+Type=7
+Name=Search gopherspace at Veronica;at University of Cologne*
+Path=
+Port=2347
+Host=veronica.uni-koeln.de
+
+Type=7
+Name=Search gopherspace at PSINet*
+Path=
+Port=2347
+Host=gopher.psi.com
+
+Type=7
+Name=Search Gopherspace (Imperial College, London)
+Path=
+Port=2347
+Host=gopher.ic.ac.uk
+
+Type=7
+Name=Search Gopherspace (SUNET, Sweden)
+Path=
+Port=2347
+Host=veronica.sunet.se
+
+Type=7
+Name=Search Gopherspace (University of Manchester, UK)
+Path=
+Port=2347
+Host=info.mcc.ac.uk
+
+Type=7
+Name=Search Gopherspace (University of Nevada-Reno)*
+Path=
+Port=800
+Host=comics.scs.unr.edu
+
+Type=1
+Name=veronica:  search Gopherspace by title keywords*
+Path=1/veronica
+Port=70
+Host=kudzu.cnidr.org
+
+Type=1
+Name=Veronica
+Path=1/Other_Gophers/Veronica
+Port=70
+Host=summit.ece.ucsb.edu
+
+Type=1
+Name=Search document titles (using veronica)
+Path=1/.explore/.veronica
+Port=70
+Host=gopher.Princeton.EDU
+
+
+Type=7
+Name=Veronica Search: Looking for World-wide Gopher Servers
+(from CNIDR)*
+Path=
+Port=70
+Host=wave.scar.utoronto.ca
+
+Type=7
+Name=Search Gopherspace (via Australia)
+Path=
+Port=2347
+Host=archie.au
+
+FAQ for Veronica
+
+     Send Gopher mail here to get a list of Frequently Asked
+Questions about Veronica.  I highly recommend getting this
+before you try to pose any questions to her.  It isn't very long
+and is full of useful information for a beginner.
+
+Type=0+
+Name=FAQ:  Frequently-Asked Questions about veronica
+(1993/08/23) Path=0/veronica/veronica-faq
+Port=70
+Host=gopher.unr.edu
+
+Using Internic Whois Server Through Gopher
+
+     This is the top-of-the-line whois server on the Internet.
+If you are looking for a domain name or even a person, this is
+the best single source I've found.  It is run by the Internet
+Network Information Center, the closest thing on the net to a
+"home office" for these kinds of purposes.  The details will not
+be as fine as a local whois server, but there is far greater
+breadth than local servers as well as greater depth than other
+"wide-area" servers. (For more on using whois see page .)
+
+Type=7
+Name=Query Whois server rs.internic.net
+Path=whois_root rs.internic.net
+Port=4324
+Host=gopher.uc.edu
+
+                  Ordering Printed Copies Of P*.COM
+
+Don't want to take time to download and print this book?  Prefer
+to have a bound book you can hold in your hand? P*.COM has been
+expanded and updated, and is now available in printed form as
+Magic Mail.  This printed copy does not have the chapter on Mail
+Manager, but does have two new chapters and extended resource
+listings.  You can order printed copies directly from the author 
+for $14.95 (plus $3.00 shipping and handling: total price $17.95). 
+Please allow 1-3 weeks for delivery.
+
+
+BY CHECK:
+
+Make check payable to Ned Johnson and mail it with your name,
+address, and number of copies ordered to:
+
+Ned Johnson
+P.O. Box 20415
+Portland, OR 97220
+
+
+ORDERING BY CREDIT CARD:
+
+Write via e-mail to PRODIGY ID BVHK06C (Ned Johnson), sending
+the following:
+
+-   number of copies ordered
+-   name as it appears on credit card
+-   credit card number and expiration date
+-   a statement that says that you authorize Ned Johnson to
+charge the price of the order to your credit card
+
+Address questions about ordering to Ned Johnson at PRODIGY ID
+BVHK06C.
